@@ -1,0 +1,817 @@
+,name,company,year,Price,kms_driven,fuel_type,Seats,Owner_Type,Engine,Power,Mileage
+0,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol,5.0,1,998 CC,58.16 bhp,26.6 km/kg
+1,Mahindra Jeep CL550,Mahindra,2006,425000,40,Diesel,5.0,1,1582 CC,126.2 bhp,19.67 kmpl
+2,Hyundai Grand i10,Hyundai,2014,325000,28000,Petrol,7.0,1,1248 CC,88.76 bhp,20.77 kmpl
+3,Ford EcoSport Titanium,Ford,2014,575000,36000,Diesel,5.0,2,1968 CC,140.8 bhp,15.2 kmpl
+4,Ford Figo,Ford,2012,175000,41000,Diesel,5.0,1,1461 CC,63.1 bhp,23.08 kmpl
+5,Hyundai Eon,Hyundai,2013,190000,25000,Petrol,8.0,1,2755 CC,171.5 bhp,11.36 kmpl
+6,Ford EcoSport Ambiente,Ford,2016,830000,24530,Diesel,5.0,1,1598 CC,103.6 bhp,20.54 kmpl
+7,Maruti Suzuki Alto,Maruti,2015,250000,60000,Petrol,5.0,2,1248 CC,74 bhp,22.3 kmpl
+8,Skoda Fabia Classic,Skoda,2010,182000,60000,Petrol,5.0,1,1462 CC,103.25 bhp,21.56 kmpl
+9,Maruti Suzuki Stingray,Maruti,2015,315000,30000,Petrol,5.0,1,1497 CC,116.3 bhp,16.8 kmpl
+10,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol,5.0,1,1248 CC,74 bhp,25.2 kmpl
+11,Mahindra Scorpio SLE,Mahindra,2015,320000,48660,Diesel,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+12,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol,5.0,2,2179 CC,115 bhp,0.0 kmpl
+13,Mahindra Jeep CL550,Mahindra,2006,425000,40,Diesel,7.0,1,2477 CC,175.56 bhp,13.5 kmpl
+14,Audi A8,Audi,2017,1000000,4000,Petrol,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+15,Audi Q7,Audi,2014,500000,16934,Diesel,5.0,1,1248 CC,74 bhp,28.4 kmpl
+16,Mahindra Scorpio S10,Mahindra,2016,350000,43000,Diesel,5.0,1,1461 CC,83.8 bhp,20.45 kmpl
+17,Maruti Suzuki Alto,Maruti,2014,160000,35550,Petrol,5.0,1,2143 CC,167.62 bhp,14.84 kmpl
+18,Mahindra Scorpio S10,Mahindra,2016,350000,43000,Diesel,5.0,1,1995 CC,190 bhp,22.69 kmpl
+19,Mahindra Scorpio S10,Mahindra,2016,310000,39522,Diesel,5.0,2,1248 CC,88.5 bhp,23.65 kmpl
+20,Maruti Suzuki Alto,Maruti,2015,75000,39000,Petrol,5.0,1,1984 CC,177.01 bhp,13.53 kmpl
+21,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol,5.0,1,1197 CC,80 bhp,18.5 kmpl
+22,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol,5.0,1,1598 CC,103.6 bhp,14.4 kmpl
+23,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol,5.0,1,1497 CC,116.3 bhp,16.8 kmpl
+24,Maruti Suzuki Alto,Maruti,2017,190000,72000,Petrol,5.0,1,1461 CC,63.1 bhp,23.08 kmpl
+25,Maruti Suzuki Vitara,Maruti,2016,290000,15975,Diesel,5.0,2,998 CC,67.1 bhp,20.92 kmpl
+26,Maruti Suzuki Alto,Maruti,2008,95000,70000,Petrol,5.0,1,1199 CC,88.7 bhp,17.5 kmpl
+27,Mahindra Bolero DI,Mahindra,2017,180000,23452,Diesel,7.0,4,2494 CC,102 bhp,12.8 kmpl
+28,Maruti Suzuki Swift,Maruti,2014,385000,35522,Diesel,5.0,1,1461 CC,108.45 bhp,19.01 kmpl
+29,Mahindra Scorpio S10,Mahindra,2015,250000,48508,Diesel,5.0,1,1798 CC,138.1 bhp,14.53 kmpl
+30,Maruti Suzuki Swift,Maruti,2017,180000,15487,Petrol,7.0,2,2696 CC,184 bhp,11.18 kmpl
+31,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,5.0,1,2698 CC,179.5 bhp,12.4 kmpl
+32,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,5.0,2,1598 CC,103.5 bhp,16.09 kmpl
+33,Toyota Innova 2.0,Toyota,2012,650000,82000,Diesel,5.0,2,1061 CC,64 bhp,14.0 kmpl
+34,Renault Lodgy 85,Renault,2018,689999,20000,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+35,Skoda Yeti Ambition,Skoda,2012,448000,68000,Diesel,5.0,1,1198 CC,82 bhp,18.15 kmpl
+36,Maruti Suzuki Baleno,Maruti,2017,549000,32000,Diesel,5.0,1,2987 CC,254.8 bhp,11.74 kmpl
+37,Renault Duster 110,Renault,2012,501000,38000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+38,Renault Duster 85,Renault,2013,489999,27000,Diesel,5.0,2,796 CC,46.3 bhp,19.7 kmpl
+39,Honda City 1.5,Honda,2011,280000,33000,Petrol,4.0,1,624 CC,37.5 bhp,25.4 kmpl
+40,Maruti Suzuki Alto,Maruti,2015,250000,60000,Petrol,6.0,1,1198 CC,77 bhp,25.32 kmpl
+41,Maruti Suzuki Dzire,Maruti,2013,349999,46000,Diesel,5.0,1,1197 CC,82.9 bhp,18.5 kmpl
+42,Honda Amaze,Honda,2013,284999,46000,Diesel,5.0,1,1999 CC,149.92 bhp,14.62 kmpl
+43,Honda Amaze 1.5,Honda,2015,345000,36000,Diesel,5.0,1,1798 CC,138.03 bhp,14.28 kmpl
+44,Honda City,Honda,2015,499999,55000,Petrol,5.0,2,1991 CC,112.2 bhp,14.9 kmpl
+45,Datsun Redi GO,Datsun,2017,235000,16000,Petrol,7.0,1,2694 CC,163.7 bhp,11.25 kmpl
+46,Maruti Suzuki SX4,Maruti,2010,249999,36000,Petrol,5.0,1,1120 CC,71 bhp,24.4 kmpl
+47,Mitsubishi Pajero Sport,Mitsubishi,2015,1475000,47000,Diesel,6.0,2,2498 CC,105 bhp,16.55 kmpl
+48,Mahindra Bolero DI,Mahindra,2017,180000,23452,Diesel,5.0,1,1968 CC,174.33 bhp,17.11 kmpl
+49,Maruti Suzuki Swift,Maruti,2014,385000,35522,Diesel,5.0,1,1248 CC,74 bhp,22.9 kmpl
+50,Mahindra Scorpio S10,Mahindra,2015,250000,48508,Diesel,5.0,1,1248 CC,75 bhp,17.8 kmpl
+51,Maruti Suzuki Swift,Maruti,2017,180000,15487,Petrol,5.0,1,1248 CC,74 bhp,28.4 kmpl
+52,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,5.0,3,1197 CC,82 bhp,18.9 kmpl
+53,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,5.0,1,1598 CC,103.2 bhp,15.04 kmpl
+54,Mahindra Scorpio S10,Mahindra,2015,395000,35000,Diesel,5.0,1,799 CC,53.3 bhp,25.17 kmpl
+55,Maruti Suzuki Swift,Maruti,2017,220000,30874,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+56,Honda City ZX,Honda,2017,170000,15000,Diesel,5.0,1,1995 CC,147.6 bhp,13.29 kmpl
+57,Maruti Suzuki Wagon,Maruti,2013,85000,29685,Petrol,5.0,1,998 CC,67.1 bhp,18.2 kmpl
+58,Ford Figo,Ford,2012,175000,41000,Diesel,8.0,1,2393 CC,147.8 bhp,13.68 kmpl
+59,Hyundai Eon,Hyundai,2013,190000,25000,Petrol,5.0,1,1399 CC,68 bhp,20.0 kmpl
+60,Tata Indigo eCS,Tata,2017,200000,130000,Diesel,5.0,1,1796 CC,186 bhp,11.74 kmpl
+61,Ford EcoSport Ambiente,Ford,2016,830000,24530,Diesel,5.0,2,2148 CC,170 bhp,15.8 kmpl
+62,Tata Indigo eCS,Tata,2017,200000,130000,Diesel,5.0,1,1396 CC,69 bhp,25.0 kmpl
+63,Mahindra Scorpio SLE,Mahindra,2012,570000,19000,Diesel,5.0,1,1968 CC,140 bhp,16.55 kmpl
+64,Volkswagen Polo Highline,Volkswagen,2014,315000,60000,Petrol,5.0,2,1497 CC,78 bhp,16.4 kmpl
+65,Skoda Fabia Classic,Skoda,2010,182000,60000,Petrol,5.0,1,1950 CC,194 bhp,0.0 kmpl
+66,Maruti Suzuki Stingray,Maruti,2015,315000,30000,Petrol,7.0,1,1248 CC,88.5 bhp,24.52 kmpl
+67,Chevrolet Spark LS,Chevrolet,2010,110000,41000,Petrol,5.0,1,4806 CC,500 bhp,8.5 kmpl
+68,Renault Duster 110PS,Renault,2012,501000,35000,Diesel,7.0,1,2179 CC,140 bhp,15.1 kmpl
+69,Honda City,Honda,2015,448999,54000,Petrol,5.0,1,1197 CC,78.9 bhp,16.95 kmpl
+70,Mini Cooper S,Mini,2013,1891111,13000,Petrol,5.0,1,1461 CC,108.5 bhp,19.64 kmpl
+71,Datsun Redi GO,Datsun,2017,235000,16000,Petrol,5.0,2,1198 CC,86.8 bhp,16.5 kmpl
+72,Skoda Fabia 1.2L,Skoda,2011,159500,38200,Diesel,5.0,2,1968 CC,187.74 bhp,18.53 kmpl
+73,Honda Amaze,Honda,2015,344999,22000,Petrol,5.0,1,1399 CC,null bhp,17.8 kmpl
+74,Honda Amaze,Honda,2015,344999,22000,Petrol,8.0,3,1998 CC,132 bhp,12.4 kmpl
+75,Renault Duster,Renault,2014,449999,50000,Diesel,7.0,1,2494 CC,102 bhp,12.8 kmpl
+76,Mini Cooper S,Mini,2013,1891111,13500,Petrol,5.0,1,1086 CC,null bhp,0.0 kmpl
+77,Mahindra Scorpio S4,Mahindra,2015,865000,30000,Diesel,5.0,1,1248 CC,74 bhp,22.9 kmpl
+78,Mahindra Scorpio VLX,Mahindra,2014,699000,50000,Diesel,5.0,1,1193 CC,88.7 bhp,17.57 kmpl
+79,Mahindra Quanto C8,Mahindra,2013,375000,20000,Diesel,5.0,1,1198 CC,86.7 bhp,18.0 kmpl
+80,Ford EcoSport,Ford,2017,489999,39000,Petrol,5.0,1,1399 CC,68 bhp,20.0 kmpl
+81,Honda Brio,Honda,2012,224999,30000,Petrol,5.0,1,1248 CC,73.94 bhp,23.2 kmpl
+82,Volkswagen Vento Highline,Volkswagen,2019,1200000,3600,Diesel,5.0,2,1995 CC,218 bhp,16.73 kmpl
+83,Hyundai i20 Magna,Hyundai,2009,195000,32000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+84,Toyota Corolla Altis,Toyota,2010,351000,38000,Diesel,5.0,1,1197 CC,82 bhp,18.9 kmpl
+85,Hyundai Verna Transform,Hyundai,2008,160000,45000,Petrol,5.0,1,1086 CC,null bhp,17.0 kmpl
+86,Toyota Corolla Altis,Toyota,2009,240000,35000,Petrol,5.0,1,1198 CC,86.7 bhp,17.8 kmpl
+87,Honda City 1.5,Honda,2005,90000,50000,Petrol,7.0,1,2982 CC,168.5 bhp,13.0 kmpl
+88,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+89,Skoda Fabia 1.2L,Skoda,2011,155000,45863,Diesel,5.0,1,1498 CC,89.84 bhp,22.7 kmpl
+90,BMW 3 Series,BMW,2011,600000,60500,Petrol,7.0,1,2179 CC,140 bhp,15.1 kmpl
+91,Maruti Suzuki A,Maruti,2011,189500,12500,Petrol,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+92,Toyota Etios GD,Toyota,2013,350000,60000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+93,Ford Figo Diesel,Ford,2012,210000,35000,Diesel,5.0,1,1493 CC,110 bhp,16.2 kmpl
+94,Maruti Suzuki Swift,Maruti,2014,390000,35000,Petrol,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+95,Chevrolet Beat LT,Chevrolet,2012,135000,45000,Diesel,5.0,1,1598 CC,103.5 bhp,15.26 kmpl
+96,BMW 7 Series,BMW,2009,1600000,35000,Petrol,5.0,2,1396 CC,90 bhp,23.0 kmpl
+97,Mahindra XUV500 W8,Mahindra,2013,701000,38000,Diesel,5.0,1,1197 CC,82.85 bhp,18.5 kmpl
+98,Hyundai i10 Magna,Hyundai,2014,265000,18000,Petrol,7.0,1,1198 CC,67 bhp,19.83 kmpl
+99,Hyundai Verna Fluidic,Hyundai,2015,525000,35000,Diesel,5.0,1,2967 CC,241.4 bhp,14.94 kmpl
+100,Maruti Suzuki Swift,Maruti,2013,372000,13349,Petrol,5.0,2,1197 CC,80 bhp,17.0 kmpl
+101,Maruti Suzuki Ertiga,Maruti,2016,635000,29000,Petrol,5.0,1,796 CC,35 bhp,14.0 kmpl
+102,Ford EcoSport Titanium,Ford,2014,550000,44000,Diesel,5.0,1,1197 CC,78.9 bhp,17.71 kmpl
+103,Maruti Suzuki Ertiga,Maruti,2016,575000,29000,Petrol,5.0,2,2993 CC,270.9 bhp,14.74 kmpl
+104,Maruti Suzuki Ertiga,Maruti,2013,485000,42000,Diesel,7.0,2,2179 CC,140 bhp,16.0 kmpl
+105,Maruti Suzuki Alto,Maruti,2012,155000,14000,Petrol,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+106,Hyundai Grand i10,Hyundai,2014,345000,49000,Diesel,7.0,1,2755 CC,171.5 bhp,11.36 kmpl
+107,Honda Amaze 1.2,Honda,2014,325000,42000,Petrol,5.0,1,1196 CC,73 bhp,15.1 kmpl
+108,Hyundai i20 Asta,Hyundai,2012,329500,36200,Diesel,4.0,1,624 CC,37.5 bhp,25.4 kmpl
+109,Ford Figo Diesel,Ford,2014,195000,50000,Diesel,5.0,1,1995 CC,190 bhp,22.69 kmpl
+110,Maruti Suzuki Eeco,Maruti,2015,251111,55000,Petrol,5.0,1,1799 CC,130 bhp,13.5 kmpl
+111,Maruti Suzuki Ertiga,Maruti,2014,569999,45000,Petrol,7.0,1,2494 CC,100.6 bhp,12.99 kmpl
+112,Maruti Suzuki Esteem,Maruti,2007,69999,51000,Petrol,5.0,1,1984 CC,150 bhp,23.3 kmpl
+113,Maruti Suzuki Ritz,Maruti,2014,299999,19000,Petrol,5.0,1,1198 CC,75.94 bhp,19.15 kmpl
+114,Maruti Suzuki Dzire,Maruti,2009,220000,46000,Petrol,5.0,1,2497 CC,215 bhp,10.8 kmpl
+115,Maruti Suzuki Ritz,Maruti,2013,399999,33000,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+116,Maruti Suzuki Swift,Maruti,2013,372000,13349,Petrol,5.0,2,1086 CC,null bhp,17.0 kmpl
+117,Maruti Suzuki Dzire,Maruti,2015,450000,104000,Diesel,5.0,2,2143 CC,107.3 bhp,15.0 kmpl
+118,Toyota Etios Liva,Toyota,2014,270000,55000,Petrol,5.0,1,1582 CC,126.2 bhp,22.0 kmpl
+119,Hyundai i20 Sportz,Hyundai,2011,350000,33333,Diesel,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+120,Chevrolet Spark,Chevrolet,2012,158400,33600,Petrol,4.0,1,624 CC,37.48 bhp,21.9 kmpl
+121,Maruti Suzuki Alto,Maruti,2017,350000,5600,Petrol,8.0,1,2179 CC,120 bhp,12.05 kmpl
+122,Nissan Micra XV,Nissan,2011,179000,41000,Petrol,5.0,1,1796 CC,178 bhp,11.7 kmpl
+123,Maruti Suzuki Swift,Maruti,2007,125000,70000,Petrol,5.0,1,998 CC,58.16 bhp,26.6 km/kg
+124,Maruti Suzuki Alto,Maruti,2018,200000,7500,Petrol,5.0,2,2354 CC,152 bhp,10.8 kmpl
+125,Honda Amaze 1.5,Honda,2013,299000,45000,Diesel,5.0,1,1498 CC,103.2 bhp,21.21 kmpl
+126,Maruti Suzuki Alto,Maruti,2015,220000,38000,Petrol,5.0,1,1373 CC,91.1 bhp,20.73 kmpl
+127,Chevrolet Beat,Chevrolet,2015,150000,30000,Petrol,7.0,1,2179 CC,140 bhp,16.0 kmpl
+128,Honda City 1.5,Honda,2010,285000,35000,Petrol,5.0,1,998 CC,67.1 bhp,24.07 kmpl
+129,Ford EcoSport Trend,Ford,2016,830000,24330,Diesel,2.0,1,2996 CC,362.07 bhp,19.0 kmpl
+130,Hyundai i20 Asta,Hyundai,2009,210000,65480,Petrol,5.0,1,1591 CC,121.3 bhp,17.0 kmpl
+131,Maruti Suzuki Swift,Maruti,2013,340000,41000,Petrol,5.0,2,796 CC,46.3 bhp,19.7 kmpl
+132,Tata Indica V2,Tata,2006,90000,20000,Petrol,5.0,1,1995 CC,143 bhp,20.58 kmpl
+133,Hindustan Motors Ambassador,Hindustan,2000,70000,200000,Diesel,5.0,1,1799 CC,130 bhp,13.5 kmpl
+134,Toyota Corolla Altis,Toyota,2010,289999,70000,Petrol,5.0,1,2143 CC,170 bhp,19.27 kmpl
+135,Toyota Corolla Altis,Toyota,2012,349999,59000,Petrol,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+136,Toyota Innova 2.5,Toyota,2012,849999,99000,Diesel,5.0,1,1197 CC,81.80 bhp,22.0 kmpl
+137,Volkswagen Jetta Highline,Volkswagen,2014,749999,46000,Diesel,5.0,3,1086 CC,null bhp,17.0 kmpl
+138,Volkswagen Polo Comfortline,Volkswagen,2015,399999,2800,Petrol,7.0,1,2982 CC,171 bhp,11.5 kmpl
+139,Volkswagen Polo,Volkswagen,2014,274999,32000,Petrol,5.0,1,1199 CC,76.8 bhp,18.6 kmpl
+140,Mahindra Scorpio,Mahindra,2015,984999,22000,Diesel,5.0,1,1498 CC,103.52 bhp,21.14 kmpl
+141,Renault Duster,Renault,2014,449999,50000,Diesel,5.0,1,1373 CC,91.1 bhp,20.73 kmpl
+142,Honda Amaze,Honda,2015,344999,22000,Petrol,4.0,1,2894 CC,444 bhp,11.05 kmpl
+143,Nissan Sunny,Nissan,2012,224999,45000,Petrol,5.0,1,1995 CC,190 bhp,21.76 kmpl
+144,Hyundai Elite i20,Hyundai,2018,599999,21000,Petrol,5.0,1,1968 CC,174.33 bhp,17.11 kmpl
+145,Renault Kwid,Renault,2016,244999,11000,Petrol,5.0,1,1248 CC,74 bhp,22.9 kmpl
+146,Renault Duster,Renault,2013,399999,41000,Diesel,5.0,1,5461 CC,362.9 bhp,7.81 kmpl
+147,Ford EcoSport,Ford,2017,489999,39000,Petrol,5.0,1,1498 CC,103.52 bhp,21.66 kmpl
+148,Renault Duster,Renault,2014,474999,50000,Diesel,5.0,1,1968 CC,138.1 bhp,17.2 kmpl
+149,Mahindra Scorpio VLX,Mahindra,2011,499999,66000,Diesel,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+150,Maruti Suzuki Alto,Maruti,2018,310000,3000,Petrol,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+151,Chevrolet Spark LT,Chevrolet,2010,85000,45000,Petrol,5.0,1,1198 CC,67.06 bhp,20.63 kmpl
+152,Datsun Redi GO,Datsun,2016,245000,7000,Petrol,5.0,1,1198 CC,86.8 bhp,19.4 kmpl
+153,Maruti Suzuki Swift,Maruti,2010,189500,38500,Diesel,5.0,1,1595 CC,120.7 bhp,14.8 kmpl
+154,Fiat Punto Emotion,Fiat,2012,169500,37200,Diesel,5.0,1,1498 CC,98.6 bhp,26.0 kmpl
+155,Maruti Suzuki Swift,Maruti,2010,159500,43200,Diesel,7.0,1,2494 CC,100.6 bhp,12.99 kmpl
+156,Toyota Etios GD,Toyota,2013,275000,24800,Petrol,5.0,1,1197 CC,81.80 bhp,20.4 kmpl
+157,Hyundai i20 Sportz,Hyundai,2014,370000,60000,Diesel,7.0,1,2179 CC,140 bhp,15.1 kmpl
+158,Hyundai i10 Sportz,Hyundai,2010,168000,45872,Petrol,5.0,1,1498 CC,89.84 bhp,22.7 kmpl
+159,Chevrolet Beat LT,Chevrolet,2011,150000,40000,Diesel,7.0,1,2982 CC,168.5 bhp,13.0 kmpl
+160,Chevrolet Beat LS,Chevrolet,2011,145000,45000,Diesel,5.0,1,1498 CC,108.5 bhp,21.5 kmpl
+161,Chevrolet Beat LT,Chevrolet,2012,98500,38000,Diesel,5.0,2,1399 CC,68 bhp,20.0 kmpl
+162,Mahindra Scorpio VLX,Mahindra,2014,699000,50000,Diesel,5.0,1,2993 CC,258 bhp,15.3 kmpl
+163,Tata Indigo CS,Tata,2011,85000,11400,Diesel,5.0,1,2143 CC,167.62 bhp,19.27 kmpl
+164,Toyota Corolla Altis,Toyota,2015,575000,42000,Petrol,5.0,2,1198 CC,86.8 bhp,19.4 kmpl
+165,Honda City 1.5,Honda,2014,549000,39000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+166,Maruti Suzuki Swift,Maruti,2011,209000,47000,Diesel,5.0,1,2143 CC,170 bhp,17.9 kmpl
+167,Hyundai Eon Era,Hyundai,2013,185000,27000,Petrol,5.0,1,1197 CC,81.86 bhp,18.9 kmpl
+168,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,5.0,2,1968 CC,174.33 bhp,17.68 kmpl
+169,Mahindra XUV500,Mahindra,2014,699999,52000,Diesel,5.0,2,1598 CC,103.6 bhp,14.4 kmpl
+170,Honda Brio,Honda,2012,224999,30000,Petrol,5.0,2,1998 CC,112 bhp,16.6 kmpl
+171,Ford Fiesta,Ford,2011,274999,55000,Diesel,5.0,1,1396 CC,88.73 bhp,22.54 kmpl
+172,Honda Amaze,Honda,2013,284999,46000,Diesel,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+173,Honda City,Honda,2015,599999,30000,Diesel,5.0,1,936 CC,57.6 bhp,25.44 kmpl
+174,Maruti Suzuki Wagon,Maruti,2012,199999,44000,Petrol,5.0,1,1798 CC,157.75 bhp,13.7 kmpl
+175,Honda City,Honda,2014,544999,45000,Diesel,5.0,2,1399 CC,68 bhp,17.8 kmpl
+176,Hyundai i20,Hyundai,2009,199000,31000,Petrol,5.0,1,1995 CC,190 bhp,22.48 kmpl
+177,Tata Indigo eCS,Tata,2016,320000,175430,Diesel,5.0,1,1598 CC,102.5 bhp,12.9 kmpl
+178,Hyundai Fluidic Verna,Hyundai,2015,540000,38000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+179,Mahindra Quanto C8,Mahindra,2013,340000,37000,Diesel,5.0,1,2143 CC,201.1 bhp,13.0 kmpl
+180,Fiat Petra ELX,Fiat,2008,75000,65000,Petrol,5.0,1,1197 CC,83.1 bhp,21.4 kmpl
+181,Skoda Fabia 1.2L,Skoda,2011,159500,38200,Diesel,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+182,Mini Cooper S,Mini,2013,1891111,13000,Petrol,5.0,1,1086 CC,68.05 bhp,19.81 kmpl
+183,Hyundai Santro Xing,Hyundai,2005,49000,7500,Petrol,7.0,1,1997 CC,120 bhp,15.4 kmpl
+184,Maruti Suzuki Ciaz,Maruti,2016,700000,3350,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+185,Maruti Suzuki Zen,Maruti,2000,55000,60000,Petrol,5.0,1,1399 CC,68 bhp,20.0 kmpl
+186,Honda City,Honda,2015,448999,54000,Petrol,7.0,1,1248 CC,88.50 bhp,25.47 kmpl
+187,Hyundai Creta 1.6,Hyundai,2017,895000,32000,Petrol,,1,,,0.0 kmpl
+188,Mahindra Scorpio SLX,Mahindra,2007,355000,75000,Diesel,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+189,Mahindra Scorpio SLE,Mahindra,2012,565000,62000,Diesel,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+190,Toyota Innova 2.5,Toyota,2006,365000,73000,Diesel,5.0,1,1896 CC,106 bhp,17.5 kmpl
+191,Maruti Suzuki Alto,Maruti,2011,145000,41000,Petrol,5.0,1,1461 CC,83.8 bhp,19.87 kmpl
+192,Maruti Suzuki Wagon,Maruti,2011,210000,35000,Petrol,7.0,2,1493 CC,100 bhp,17.45 kmpl
+193,Tata Nano Cx,Tata,2013,40000,2200,Petrol,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+194,Maruti Suzuki Alto,Maruti,2013,125000,39000,Petrol,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+195,Maruti Suzuki Wagon,Maruti,2009,135000,45000,Petrol,5.0,1,1390 CC,85 bhp,14.7 kmpl
+196,Maruti Suzuki Swift,Maruti,2006,135000,45000,Petrol,5.0,1,1193 CC,64.1 bhp,15.64 kmpl
+197,Tata Sumo Victa,Tata,2012,285000,65000,Diesel,5.0,1,1968 CC,174.33 bhp,15.73 kmpl
+198,Maruti Suzuki Wagon,Maruti,2010,145000,54870,Petrol,5.0,1,1364 CC,67.06 bhp,23.59 kmpl
+199,Maruti Suzuki Alto,Maruti,2010,135000,34580,Petrol,,1,,,16.1 kmpl
+200,Volkswagen Passat Diesel,Volkswagen,2009,450000,97000,Diesel,5.0,1,1595 CC,120.7 bhp,14.8 kmpl
+201,Renault Scala RxL,Renault,2015,375000,25000,Diesel,5.0,1,1498 CC,98.6 bhp,27.4 kmpl
+202,Mahindra Quanto C8,Mahindra,2013,375000,20000,Diesel,5.0,2,1582 CC,126.32 bhp,22.32 kmpl
+203,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol,5.0,1,1461 CC,83.8 bhp,20.46 kmpl
+204,Hyundai i20 Active,Hyundai,2015,500000,18000,Petrol,5.0,2,1591 CC,121.3 bhp,15.29 kmpl
+205,Mahindra Xylo E4,Mahindra,2012,400000,35000,Diesel,5.0,1,998 CC,67 bhp,20.51 kmpl
+206,Mahindra Jeep MM,Mahindra,2019,390000,60,Diesel,5.0,1,1796 CC,186 bhp,11.74 kmpl
+207,Renault Duster 110PS,Renault,2012,501000,35000,Diesel,5.0,1,2967 CC,246.7 bhp,11.8 kmpl
+208,Mahindra Bolero SLE,Mahindra,2013,330000,80200,Diesel,5.0,2,1086 CC,68.05 bhp,19.81 kmpl
+209,Force Motors Force,Force,2015,580000,3200,Diesel,5.0,1,1598 CC,103.52 bhp,14.3 kmpl
+210,Maruti Suzuki SX4,Maruti,2012,265000,46000,Diesel,5.0,1,1798 CC,177.46 bhp,14.67 kmpl
+211,Mahindra Jeep CL550,Mahindra,2019,379000,0,Diesel,5.0,1,1197 CC,81.86 bhp,17.19 kmpl
+212,Maruti Suzuki Alto,Maruti,2015,219000,5000,Petrol,5.0,2,1498 CC,98.6 bhp,25.8 kmpl
+213,Mahindra Jeep CL550,Mahindra,2018,385000,588,Diesel,5.0,2,998 CC,67.1 bhp,18.9 kmpl
+214,Toyota Etios,Toyota,2011,275000,36000,Diesel,5.0,1,1461 CC,65 bhp,21.03 kmpl
+215,Volkswagen Polo,Volkswagen,2015,330000,38000,Diesel,5.0,1,2143 CC,167.62 bhp,19.27 kmpl
+216,Honda City ZX,Honda,2008,110000,45000,Petrol,5.0,1,998 CC,67.04 bhp,22.5 kmpl
+217,Maruti Suzuki Wagon,Maruti,2006,80000,71200,Petrol,5.0,2,1461 CC,108.5 bhp,19.01 kmpl
+218,Honda City VX,Honda,2016,519000,52000,Diesel,5.0,1,1248 CC,null bhp,17.8 kmpl
+219,Mahindra Thar CRDe,Mahindra,2016,730000,29000,Diesel,4.0,1,1998 CC,189.08 bhp,16.82 kmpl
+220,Mitsubishi Pajero Sport,Mitsubishi,2015,1475000,47000,Diesel,,1,1498 CC,99 bhp,0.0 kmpl
+221,Audi A4 1.8,Audi,2009,699000,47000,Petrol,5.0,2,1396 CC,53.5 bhp,17.2 kmpl
+222,Mercedes Benz GLA,Mercedes,2015,2000000,20000,Diesel,5.0,2,1199 CC,76.8 bhp,18.6 kmpl
+223,Land Rover Freelander,Land,2015,2100000,30000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+224,Renault Kwid RXT,Renault,2017,340000,5000,Petrol,5.0,1,1248 CC,74 bhp,22.9 kmpl
+225,Tata Aria Pleasure,Tata,2014,390000,35000,Diesel,5.0,1,1399 CC,68.05 bhp,20.0 kmpl
+226,Mercedes Benz B,Mercedes,2014,1400000,31000,Petrol,7.0,1,2755 CC,171.5 bhp,11.36 kmpl
+227,Datsun GO T,Datsun,2016,245000,7000,Petrol,7.0,2,2199 CC,194.3 bhp,11.72 kmpl
+228,Tata Indigo eCS,Tata,2016,320000,175430,Diesel,5.0,1,1497 CC,117.3 bhp,17.4 kmpl
+229,Tata Indigo eCS,Tata,2016,320000,175400,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+230,Honda Jazz VX,Honda,2016,450000,41000,Petrol,5.0,1,2143 CC,167.62 bhp,19.27 kmpl
+231,Honda Amaze 1.2,Honda,2014,311000,33000,Petrol,5.0,1,936 CC,57.6 bhp,25.44 kmpl
+232,Honda Amaze,Honda,2013,284999,46000,Diesel,5.0,1,1396 CC,88.73 bhp,22.54 kmpl
+233,Honda City,Honda,2012,399999,45000,Petrol,7.0,1,2494 CC,100.6 bhp,12.99 kmpl
+234,Honda City,Honda,2015,599999,39000,Diesel,7.0,1,1248 CC,88.76 bhp,20.77 kmpl
+235,Honda Amaze,Honda,2015,344999,22000,Petrol,7.0,1,2494 CC,102 bhp,12.8 kmpl
+236,Audi A4 1.8,Audi,2009,699000,47000,Petrol,5.0,3,1086 CC,null bhp,17.0 kmpl
+237,Force Motors Force,Force,2015,580000,3200,Diesel,5.0,1,1497 CC,117.3 bhp,17.8 kmpl
+238,Mahindra Scorpio S4,Mahindra,2015,855000,30000,Diesel,5.0,1,1995 CC,184 bhp,17.05 kmpl
+239,Hyundai i20 Active,Hyundai,2015,535000,37000,Diesel,5.0,1,1120 CC,70 bhp,24.0 kmpl
+240,Mini Cooper S,Mini,2013,1891111,13000,Petrol,5.0,1,1248 CC,88.5 bhp,28.09 kmpl
+241,Maruti Suzuki Ciaz,Maruti,2017,699000,14000,Petrol,5.0,1,1598 CC,103.6 bhp,20.5 kmpl
+242,Chevrolet Tavera Neo,Chevrolet,2013,375000,55000,Diesel,5.0,1,1493 CC,82 bhp,13.1 kmpl
+243,Honda Amaze,Honda,2013,284999,46000,Diesel,5.0,2,1498 CC,103.6 bhp,19.91 kmpl
+244,Hyundai Eon Sportz,Hyundai,2012,178000,30000,Petrol,5.0,1,1199 CC,88.7 bhp,18.7 kmpl
+245,Tata Sumo Gold,Tata,2013,300000,50000,Diesel,5.0,1,1086 CC,68.05 bhp,19.81 kmpl
+246,Maruti Suzuki Wagon,Maruti,2003,90000,45000,Petrol,5.0,1,1995 CC,183 bhp,16.38 kmpl
+247,Maruti Suzuki Esteem,Maruti,2006,95000,45000,Petrol,7.0,1,2393 CC,147.8 bhp,13.68 kmpl
+248,Maruti Suzuki Eeco,Maruti,2015,255000,9300,Petrol,5.0,3,796 CC,35 bhp,19.7 kmpl
+249,Chevrolet Enjoy 1.4,Chevrolet,2013,245000,55000,Diesel,5.0,2,1197 CC,81.80 bhp,20.4 kmpl
+250,Hyundai i20 Asta,Hyundai,2012,329500,36200,Diesel,5.0,1,1197 CC,82 bhp,18.9 kmpl
+251,Ford Figo Diesel,Ford,2014,195000,50000,Diesel,5.0,1,1248 CC,74 bhp,22.9 kmpl
+252,Maruti Suzuki Eeco,Maruti,2015,251111,55000,Petrol,5.0,1,1582 CC,126.2 bhp,22.0 kmpl
+253,Maruti Suzuki Ertiga,Maruti,2014,569999,45000,Petrol,5.0,1,1086 CC,null bhp,0.0 kmpl
+254,Maruti Suzuki Esteem,Maruti,2007,69999,51000,Petrol,5.0,1,1197 CC,80 bhp,17.0 kmpl
+255,Maruti Suzuki Ritz,Maruti,2014,299999,19000,Petrol,5.0,1,2987 CC,254.79 bhp,11.57 kmpl
+256,Maruti Suzuki Dzire,Maruti,2009,220000,46000,Petrol,5.0,2,2148 CC,170 bhp,15.8 kmpl
+257,Maruti Suzuki Ritz,Maruti,2013,399999,33000,Diesel,5.0,1,1248 CC,73.94 bhp,23.2 kmpl
+258,Maruti Suzuki SX4,Maruti,2010,249999,36000,Petrol,5.0,1,1582 CC,126.2 bhp,19.67 kmpl
+259,Maruti Suzuki Wagon,Maruti,2015,289999,22000,Petrol,5.0,1,998 CC,66.1 bhp,19.0 kmpl
+260,Mini Cooper S,Mini,2013,1891111,13500,Petrol,5.0,1,1461 CC,108.45 bhp,19.64 kmpl
+261,Nissan Terrano XL,Nissan,2015,499999,60000,Diesel,5.0,1,1248 CC,76 bhp,17.8 kmpl
+262,Renault Duster 85,Renault,2013,489999,27000,Diesel,5.0,1,2993 CC,258 bhp,16.55 kmpl
+263,Renault Duster 85,Renault,2014,489999,59000,Diesel,5.0,2,1197 CC,78.9 bhp,20.36 kmpl
+264,Renault Duster 85,Renault,2015,549999,19000,Diesel,7.0,1,2494 CC,102 bhp,12.8 kmpl
+265,Maruti Suzuki Dzire,Maruti,2013,380000,30000,Petrol,5.0,3,993 CC,60 bhp,17.3 kmpl
+266,Renault Kwid RXT,Renault,2018,325000,15000,Petrol,5.0,1,1248 CC,74 bhp,28.4 kmpl
+267,Maruti Suzuki Maruti,Maruti,2003,57000,56758,Petrol,8.0,2,2179 CC,120 bhp,12.05 kmpl
+268,Renault Kwid 1.0,Renault,2018,349999,10000,Petrol,5.0,1,1248 CC,74 bhp,22.95 kmpl
+269,Renault Lodgy 85,Renault,2018,689999,20000,Diesel,5.0,1,999 CC,123.24 bhp,18.88 kmpl
+270,Renault Scala RxL,Renault,2014,349999,49000,Diesel,5.0,1,1248 CC,74 bhp,23.4 kmpl
+271,Hyundai Grand i10,Hyundai,2014,410000,41000,Petrol,5.0,1,796 CC,47.3 bhp,22.74 kmpl
+272,Maruti Suzuki Swift,Maruti,2011,225000,45000,Petrol,5.0,1,1497 CC,118 bhp,17.0 kmpl
+273,Chevrolet Beat LS,Chevrolet,2010,120000,43000,Petrol,7.0,1,2967 CC,241.4 bhp,12.07 kmpl
+274,Tata Indigo eCS,Tata,2016,320000,175430,Diesel,5.0,2,1896 CC,105 bhp,17.0 kmpl
+275,Hyundai Santro Xing,Hyundai,2000,59000,56450,Petrol,5.0,1,1591 CC,121.3 bhp,17.1 kmpl
+276,Hyundai Fluidic Verna,Hyundai,2015,540000,38000,Diesel,5.0,1,1497 CC,118 bhp,16.8 kmpl
+277,Chevrolet Beat LS,Chevrolet,2010,80000,56000,Petrol,5.0,1,1396 CC,98.6 bhp,15.0 kmpl
+278,Mahindra Quanto C8,Mahindra,2013,340000,37000,Diesel,5.0,1,1598 CC,103.6 bhp,20.54 kmpl
+279,Fiat Petra ELX,Fiat,2008,75000,65000,Petrol,5.0,1,1497 CC,117.3 bhp,17.4 kmpl
+280,Chevrolet Beat LS,Chevrolet,2015,220000,32700,Petrol,5.0,1,1248 CC,74 bhp,22.95 kmpl
+281,Skoda Fabia 1.2L,Skoda,2011,159500,38200,Diesel,5.0,1,1995 CC,177 bhp,18.48 kmpl
+282,Ford EcoSport Titanium,Ford,2016,599000,30000,Diesel,5.0,1,1061 CC,67 bhp,18.9 kmpl
+283,Hyundai Accent GLX,Hyundai,2006,80000,56000,Petrol,5.0,1,1199 CC,88.7 bhp,18.2 kmpl
+284,Mahindra TUV300 T4,Mahindra,2016,675000,9000,Diesel,5.0,1,2143 CC,170 bhp,19.27 kmpl
+285,Mini Cooper S,Mini,2013,1891111,13000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+286,Mini Cooper S,Mini,2013,1891111,13000,Petrol,7.0,1,2393 CC,147.8 bhp,13.68 kmpl
+287,Tata Indica V2,Tata,2008,150000,11000,Petrol,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+288,Mini Cooper S,Mini,2013,1891111,13000,Petrol,7.0,2,2494 CC,100.6 bhp,12.99 kmpl
+289,Tata Indigo CS,Tata,2009,72500,46000,Diesel,5.0,1,1198 CC,73.9 bhp,16.47 kmpl
+290,Maruti Suzuki Swift,Maruti,2019,610000,73,Petrol,5.0,1,998 CC,67.1 bhp,20.92 kmpl
+291,Mahindra Scorpio VLX,Mahindra,2004,230000,160000,Diesel,5.0,1,1497 CC,117.3 bhp,18.0 kmpl
+292,Honda Accord,Honda,2009,175000,58559,Petrol,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+293,Mahindra Scorpio S4,Mahindra,2015,855000,30000,Diesel,5.0,1,2143 CC,136 bhp,17.9 kmpl
+294,Chevrolet Tavera Neo,Chevrolet,2013,375000,55000,Diesel,5.0,2,1086 CC,null bhp,0.0 kmpl
+295,Ford EcoSport Titanium,Ford,2014,520000,57000,Diesel,5.0,1,1248 CC,null bhp,17.8 kmpl
+296,Maruti Suzuki Ertiga,Maruti,2015,524999,50000,Diesel,5.0,1,998 CC,67.04 bhp,23.1 kmpl
+297,Honda Amaze,Honda,2014,299999,37000,Petrol,5.0,1,2143 CC,201.15 bhp,17.9 kmpl
+298,Maruti Suzuki Dzire,Maruti,2012,299999,40000,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+299,Honda City,Honda,2011,284999,55000,Petrol,5.0,1,1598 CC,103.6 bhp,20.54 kmpl
+300,Mahindra Scorpio 2.6,Mahindra,2007,220000,170000,Diesel,5.0,1,796 CC,35 bhp,14.0 kmpl
+301,Maruti Suzuki Dzire,Maruti,2014,424999,55000,Diesel,5.0,1,1198 CC,86.8 bhp,18.5 kmpl
+302,Honda City,Honda,2015,644999,39000,Petrol,7.0,2,2956 CC,83.1 bhp,14.07 kmpl
+303,Honda Mobilio,Honda,2014,399999,44000,Petrol,5.0,1,1248 CC,75 bhp,18.0 kmpl
+304,Toyota Corolla Altis,Toyota,2009,199999,65000,Petrol,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+305,Honda City,Honda,2014,584999,39000,Petrol,7.0,1,2179 CC,140 bhp,16.0 kmpl
+306,Skoda Laura,Skoda,2012,349999,44000,Diesel,5.0,2,1396 CC,70 bhp,17.1 kmpl
+307,Renault Duster,Renault,2015,449999,49000,Diesel,7.0,1,1373 CC,93.7 bhp,16.02 kmpl
+308,Maruti Suzuki Ertiga,Maruti,2018,799999,9000,Diesel,5.0,1,2354 CC,177.6 bhp,11.7 kmpl
+309,Maruti Suzuki Dzire,Maruti,2015,444999,45000,Diesel,5.0,1,1248 CC,73.9 bhp,19.3 kmpl
+310,Mahindra XUV500,Mahindra,2014,649999,47000,Diesel,5.0,1,1399 CC,68 bhp,17.8 kmpl
+311,Hyundai Verna Fluidic,Hyundai,2012,444999,40000,Diesel,5.0,1,1497 CC,78 bhp,17.7 kmpl
+312,Maruti Suzuki Vitara,Maruti,2016,689999,29000,Diesel,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+313,Maruti Suzuki Wagon,Maruti,2016,344999,15000,Petrol,4.0,1,2993 CC,313 bhp,9.52 kmpl
+314,Mahindra Scorpio,Mahindra,2015,944999,45000,Diesel,7.0,1,2967 CC,245 bhp,14.75 kmpl
+315,Honda Amaze,Honda,2014,274999,35000,Petrol,5.0,1,998 CC,67.1 bhp,26.3 km/kg
+316,Mahindra XUV500,Mahindra,2013,689999,80000,Diesel,5.0,1,1396 CC,90 bhp,23.0 kmpl
+317,Mahindra Scorpio,Mahindra,2013,574999,68000,Diesel,5.0,3,1197 CC,78.9 bhp,16.95 kmpl
+318,Skoda Laura,Skoda,2013,374999,50000,Diesel,5.0,1,1199 CC,88.7 bhp,19.0 kmpl
+319,Volkswagen Polo,Volkswagen,2010,199999,60000,Diesel,5.0,1,1248 CC,74 bhp,25.2 kmpl
+320,Hyundai Elite i20,Hyundai,2016,549999,9000,Petrol,5.0,2,1197 CC,82.85 bhp,18.5 kmpl
+321,Tata Manza Aura,Tata,2012,130000,72000,Diesel,5.0,1,1198 CC,73.9 bhp,16.47 kmpl
+322,Chevrolet Sail UVA,Chevrolet,2013,210000,60000,Petrol,5.0,1,796 CC,46.3 bhp,19.7 kmpl
+323,Renault Duster 110,Renault,2012,501000,38000,Diesel,5.0,2,1794 CC,125 bhp,11.3 kmpl
+324,Hyundai Verna Fluidic,Hyundai,2013,401000,45000,Diesel,5.0,2,796 CC,46.3 bhp,19.7 kmpl
+325,Audi A4 2.0,Audi,2012,1350000,40000,Diesel,5.0,1,1248 CC,88.8 bhp,21.12 kmpl
+326,Hyundai Elantra SX,Hyundai,2013,600000,20000,Petrol,5.0,1,796 CC,46.3 bhp,19.7 kmpl
+327,Mahindra Scorpio VLX,Mahindra,2013,610000,35000,Diesel,5.0,1,1968 CC,141 bhp,19.3 kmpl
+328,Mahindra KUV100 K8,Mahindra,2016,400000,20000,Diesel,5.0,1,1794 CC,125 bhp,11.3 kmpl
+329,Renault Scala RxL,Renault,2015,375000,25000,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+330,Mahindra Quanto C8,Mahindra,2013,375000,20000,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+331,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol,5.0,1,1497 CC,118 bhp,17.0 kmpl
+332,Hyundai i20 Active,Hyundai,2015,500000,18000,Petrol,5.0,2,1248 CC,75 bhp,18.0 kmpl
+333,Mahindra Xylo E4,Mahindra,2012,400000,35000,Diesel,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+334,Hyundai Grand i10,Hyundai,2017,524999,6821,Petrol,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+335,Hyundai i20,Hyundai,2014,449999,23000,Petrol,5.0,2,1995 CC,190 bhp,21.76 kmpl
+336,Hyundai Eon,Hyundai,2014,174999,14000,Petrol,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+337,Hyundai i10,Hyundai,2012,244999,38000,Petrol,5.0,1,1248 CC,88.8 bhp,21.02 kmpl
+338,Hyundai i20 Active,Hyundai,2015,574999,35000,Diesel,5.0,1,1984 CC,227 bhp,14.45 kmpl
+339,Datsun Redi GO,Datsun,2017,244999,22000,Petrol,5.0,1,998 CC,67.1 bhp,24.07 kmpl
+340,Toyota Etios Liva,Toyota,2011,239999,41000,Petrol,5.0,1,1498 CC,89.84 bhp,22.7 kmpl
+341,Hyundai Accent,Hyundai,2010,99999,45000,Petrol,5.0,2,995 CC,62 bhp,18.0 kmpl
+342,Hyundai Verna,Hyundai,2014,489999,44000,Diesel,5.0,1,1999 CC,177 bhp,19.33 kmpl
+343,Maruti Suzuki Swift,Maruti,2013,324999,45000,Diesel,5.0,3,1997 CC,141.1 bhp,13.1 kmpl
+344,Toyota Fortuner,Toyota,2011,1074999,52000,Diesel,5.0,1,1798 CC,177.46 bhp,14.67 kmpl
+345,Hyundai i10 Sportz,Hyundai,2012,230000,34000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+346,Mahindra Bolero Power,Mahindra,2018,699000,1800,Diesel,5.0,1,1248 CC,74 bhp,22.9 kmpl
+347,Mahindra XUV500,Mahindra,2015,1000000,15000,Diesel,5.0,1,1461 CC,63.1 bhp,23.08 kmpl
+348,Honda City 1.5,Honda,2010,240000,400000,Petrol,5.0,1,1248 CC,74 bhp,23.4 kmpl
+349,Chevrolet Spark LT,Chevrolet,2009,110000,44000,Petrol,5.0,1,1399 CC,67 bhp,17.8 kmpl
+350,Mahindra Jeep MM,Mahindra,2019,390000,60,Diesel,5.0,1,993 CC,60 bhp,17.3 kmpl
+351,Renault Duster 110PS,Renault,2012,501000,35000,Diesel,5.0,1,1998 CC,192 bhp,13.8 kmpl
+352,Mahindra XUV500,Mahindra,2016,1130000,72000,Diesel,5.0,1,1364 CC,67.05 bhp,23.59 kmpl
+353,Tata Indigo eCS,Tata,2014,250000,40000,Diesel,5.0,1,796 CC,47.3 bhp,24.7 kmpl
+354,Mahindra Bolero SLE,Mahindra,2013,330000,80200,Diesel,5.0,2,2993 CC,235 bhp,11.0 kmpl
+355,Force Motors Force,Force,2015,580000,3200,Diesel,5.0,2,2496 CC,179.5 bhp,11.07 kmpl
+356,Skoda Rapid Elegance,Skoda,2013,340000,48000,Diesel,5.0,1,1197 CC,82 bhp,18.9 kmpl
+357,Tata Vista Quadrajet,Tata,2011,120000,90000,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+358,Maruti Suzuki Alto,Maruti,2015,265000,12000,Petrol,7.0,3,2967 CC,241.4 bhp,12.07 kmpl
+359,Maruti Suzuki SX4,Maruti,2012,265000,46000,Diesel,5.0,1,2143 CC,136 bhp,17.9 kmpl
+360,Maruti Suzuki Zen,Maruti,2003,85000,69900,Petrol,4.0,3,796 CC,37 bhp,16.1 kmpl
+361,Mahindra Jeep CL550,Mahindra,2019,379000,0,Diesel,5.0,2,1461 CC,83.8 bhp,20.45 kmpl
+362,Hyundai i10 Magna,Hyundai,2011,175000,45000,Petrol,5.0,1,1364 CC,87.2 bhp,21.43 kmpl
+363,Maruti Suzuki Alto,Maruti,2015,219000,5000,Petrol,5.0,1,2148 CC,170 bhp,15.8 kmpl
+364,Maruti Suzuki Swift,Maruti,2016,350000,166000,Diesel,5.0,2,1248 CC,73.9 bhp,21.1 kmpl
+365,Honda City ZX,Honda,2008,149000,42000,Petrol,7.0,1,1497 CC,117.3 bhp,16.0 kmpl
+366,Mahindra Jeep CL550,Mahindra,2018,385000,588,Diesel,5.0,1,1120 CC,71 bhp,24.4 kmpl
+367,Mahindra Jeep MM,Mahindra,2006,425000,122,Diesel,5.0,1,2143 CC,203 bhp,14.21 kmpl
+368,Chevrolet Beat Diesel,Chevrolet,2017,150000,62000,Diesel,5.0,2,1595 CC,120.7 bhp,14.8 kmpl
+369,Honda City 1.5,Honda,2010,225000,70000,Petrol,5.0,1,2143 CC,204 bhp,15.0 kmpl
+370,Hyundai Verna 1.4,Hyundai,2014,375000,36000,Petrol,5.0,1,1086 CC,null bhp,17.0 kmpl
+371,Toyota Innova 2.5,Toyota,2012,770000,0,Diesel,5.0,1,1497 CC,118 bhp,17.0 kmpl
+372,Maruti Suzuki Maruti,Maruti,1995,30000,55000,Petrol,5.0,1,1999 CC,246.74 bhp,13.5 kmpl
+373,Toyota Etios,Toyota,2011,275000,36000,Diesel,5.0,1,1198 CC,86.7 bhp,18.0 kmpl
+374,Volkswagen Polo,Volkswagen,2015,330000,38000,Diesel,4.0,1,1598 CC,122 bhp,18.86 kmpl
+375,Maruti Suzuki Swift,Maruti,2014,335000,55000,Diesel,5.0,1,2987 CC,282 bhp,13.5 kmpl
+376,Hyundai Elite i20,Hyundai,2015,450000,20000,Diesel,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+377,Maruti Suzuki Swift,Maruti,2012,225000,40000,Petrol,5.0,1,998 CC,67.04 bhp,20.51 kmpl
+378,Maruti Suzuki Versa,Maruti,2004,80000,50000,Petrol,5.0,1,1995 CC,181 bhp,16.07 kmpl
+379,Tata Indigo LX,Tata,2016,130000,104000,Diesel,5.0,1,2179 CC,138.03 bhp,13.49 kmpl
+380,Volkswagen Vento Konekt,Volkswagen,2011,245000,65000,Diesel,5.0,1,1968 CC,143 bhp,20.38 kmpl
+381,Mercedes Benz C,Mercedes,2002,399000,41000,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+382,Maruti Suzuki Ertiga,Maruti,2013,450000,90000,Diesel,7.0,2,2987 CC,224 bhp,12.0 kmpl
+383,Honda City,Honda,2000,65000,80000,Petrol,5.0,1,796 CC,46.3 bhp,19.7 kmpl
+384,Hyundai Santro Xing,Hyundai,2006,75000,46000,Petrol,5.0,1,1061 CC,64 bhp,14.0 kmpl
+385,Maruti Suzuki Omni,Maruti,2001,70000,70000,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+386,Hyundai Sonata Transform,Hyundai,2017,190000,36469,Diesel,5.0,2,1591 CC,121.3 bhp,17.01 kmpl
+387,Hyundai Elite i20,Hyundai,2018,600000,7800,Petrol,5.0,1,2993 CC,218 bhp,16.73 kmpl
+388,Volkswagen Vento Konekt,Volkswagen,2011,245000,65000,Diesel,5.0,1,2993 CC,270.9 bhp,14.74 kmpl
+389,Maruti Suzuki Alto,Maruti,2017,240000,60000,Petrol,5.0,1,1798 CC,157.75 bhp,13.7 kmpl
+390,Maruti Suzuki Alto,Maruti,2011,155000,32000,Petrol,5.0,1,1968 CC,174.33 bhp,15.73 kmpl
+391,Honda Jazz S,Honda,2009,169999,24695,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+392,Hyundai Grand i10,Hyundai,2017,450000,15141,Petrol,5.0,1,2143 CC,170 bhp,14.84 kmpl
+393,Maruti Suzuki Zen,Maruti,2001,40000,40000,Petrol,7.0,1,2179 CC,120 bhp,15.4 kmpl
+394,Mahindra Scorpio W,Mahindra,2012,165000,65000,Diesel,5.0,1,1995 CC,190 bhp,21.76 kmpl
+395,Maruti Suzuki Alto,Maruti,2014,270000,22000,Petrol,5.0,2,2400 CC,215 bhp,16.0 kmpl
+396,Hyundai Grand i10,Hyundai,2016,280000,59910,Diesel,5.0,1,1495 CC,94 bhp,13.2 kmpl
+397,Mahindra XUV500 W8,Mahindra,2012,560000,100000,Diesel,5.0,1,1197 CC,81.86 bhp,17.19 kmpl
+398,Hyundai Creta 1.6,Hyundai,2016,950000,25000,Petrol,5.0,1,2996 CC,367 bhp,11.5 kmpl
+399,Hyundai i20 Magna,Hyundai,2013,310000,35000,Petrol,5.0,2,814 CC,55.2 bhp,21.1 kmpl
+400,Renault Duster 85,Renault,2015,715000,65000,Diesel,5.0,1,1197 CC,81.86 bhp,18.9 kmpl
+401,Hyundai Grand i10,Hyundai,2014,340000,35000,Petrol,5.0,1,1493 CC,100 bhp,13.0 kmpl
+402,Honda Brio V,Honda,2012,235000,33000,Petrol,5.0,1,1198 CC,73.9 bhp,16.47 kmpl
+403,Mahindra TUV300 T4,Mahindra,2017,610000,68000,Diesel,5.0,1,1798 CC,187.74 bhp,15.26 kmpl
+404,Chevrolet Spark LS,Chevrolet,2010,95000,23000,Petrol,5.0,1,1968 CC,null bhp,0.0 kmpl
+405,Mahindra TUV300 T8,Mahindra,2018,1000000,4500,Diesel,5.0,1,1591 CC,121.3 bhp,15.29 kmpl
+406,Maruti Suzuki Swift,Maruti,2015,220000,129000,Diesel,5.0,2,1796 CC,186 bhp,11.74 kmpl
+407,Nissan X Trail,Nissan,2019,1200000,300,Diesel,4.0,1,1998 CC,189.08 bhp,16.82 kmpl
+408,Maruti Suzuki Alto,Maruti,2015,230000,5000,Petrol,5.0,2,1086 CC,null bhp,17.0 kmpl
+409,Ford Ikon 1.3,Ford,2001,45000,65000,Petrol,5.0,1,1364 CC,67.04 bhp,23.59 kmpl
+410,Toyota Fortuner 3.0,Toyota,2010,940000,131000,Diesel,5.0,2,1198 CC,86.8 bhp,19.4 kmpl
+411,Tata Manza ELAN,Tata,2010,155555,111111,Petrol,5.0,1,1197 CC,83.1 bhp,21.4 kmpl
+412,Mercedes Benz A,Mercedes,2013,1500000,14000,Petrol,5.0,1,1461 CC,108.45 bhp,20.37 kmpl
+413,Chevrolet Beat LS,Chevrolet,2016,210000,22000,Diesel,5.0,1,2993 CC,258 bhp,16.2 kmpl
+414,Ford EcoSport Trend,Ford,2013,495000,38000,Diesel,5.0,1,796 CC,47.3 bhp,22.74 kmpl
+415,Tata Indigo LS,Tata,2016,125000,70000,Diesel,5.0,2,1984 CC,150 bhp,16.8 kmpl
+416,Hyundai i20 Magna,Hyundai,2010,195000,36000,Petrol,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+417,Volkswagen Vento Highline,Volkswagen,2015,550000,34000,Diesel,5.0,1,1497 CC,78 bhp,17.7 kmpl
+418,Renault Kwid RXT,Renault,2015,270000,43000,Petrol,5.0,1,1196 CC,73 bhp,15.1 km/kg
+419,Ford EcoSport Titanium,Ford,2014,500000,40000,Diesel,7.0,1,2523 CC,62.1 bhp,15.96 kmpl
+420,Honda Amaze 1.5,Honda,2016,240000,160000,Diesel,5.0,1,1086 CC,null bhp,0.0 kmpl
+421,Hyundai Verna 1.6,Hyundai,2017,800000,12000,Petrol,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+422,BMW 5 Series,BMW,2011,1299000,49000,Diesel,5.0,1,1591 CC,121.3 bhp,13.0 kmpl
+423,Skoda Superb 1.8,Skoda,2011,530000,68000,Petrol,5.0,2,1598 CC,103.5 bhp,16.09 kmpl
+424,Audi Q3 2.0,Audi,2013,1499000,37000,Diesel,5.0,2,1799 CC,130 bhp,12.9 kmpl
+425,Mahindra Bolero DI,Mahindra,2012,220000,59466,Diesel,5.0,1,1248 CC,74 bhp,22.3 kmpl
+426,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+427,Ford Figo Duratorq,Ford,2012,250000,99000,Diesel,5.0,2,1968 CC,174.3 bhp,14.16 kmpl
+428,Maruti Suzuki Wagon,Maruti,2018,395000,25500,Petrol,5.0,2,1197 CC,85.80 bhp,18.5 kmpl
+429,Mahindra Logan Diesel,Mahindra,2009,130000,66000,Petrol,5.0,2,1999 CC,114 bhp,13.17 kmpl
+430,Tata Nano GenX,Tata,2010,32000,44005,Petrol,7.0,1,2494 CC,102 bhp,12.8 kmpl
+431,Mahindra TUV300 T4,Mahindra,2016,540000,35000,Diesel,5.0,1,793 CC,47 bhp,27.62 kmpl
+432,Mahindra TUV300 T4,Mahindra,2016,540000,35000,Diesel,5.0,1,1248 CC,88.5 bhp,25.1 kmpl
+433,Hyundai Elite i20,Hyundai,2015,405000,28000,Petrol,5.0,1,1968 CC,181 bhp,15.17 kmpl
+434,Hyundai Elite i20,Hyundai,2015,400000,30000,Petrol,5.0,1,1995 CC,190 bhp,21.76 kmpl
+435,Honda City SV,Honda,2017,760000,4000,Petrol,7.0,1,4134 CC,335.2 bhp,11.33 kmpl
+436,Maruti Suzuki Baleno,Maruti,2016,500000,28000,Petrol,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+437,Ford Figo Petrol,Ford,2011,175000,75000,Petrol,5.0,1,1461 CC,108.45 bhp,19.01 kmpl
+438,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,5.0,1,1120 CC,71 bhp,24.4 kmpl
+439,Honda City,Honda,2017,750000,3000,Petrol,5.0,1,1498 CC,89.84 bhp,22.7 kmpl
+440,Hyundai Elite i20,Hyundai,2015,419000,20000,Petrol,5.0,1,1198 CC,73.9 bhp,16.47 kmpl
+441,Maruti Suzuki Versa,Maruti,2004,90000,50000,Petrol,5.0,1,1120 CC,70 bhp,24.0 kmpl
+442,Hyundai Eon Era,Hyundai,2018,140000,2110,Petrol,5.0,1,1248 CC,88.8 bhp,21.12 kmpl
+443,Mitsubishi Pajero Sport,Mitsubishi,2015,1540000,43222,Petrol,5.0,1,1497 CC,118 bhp,17.0 kmpl
+444,Hyundai i10 Magna,Hyundai,2008,275000,100200,Petrol,5.0,2,1086 CC,62.1 bhp,17.92 kmpl
+445,Toyota Corolla H2,Toyota,2003,150000,100000,Petrol,7.0,1,2494 CC,100 bhp,12.99 kmpl
+446,Maruti Suzuki Swift,Maruti,2011,230000,65,Petrol,5.0,1,1248 CC,88.5 bhp,28.09 kmpl
+447,Tata Indigo CS,Tata,2015,123000,100000,Diesel,7.0,1,2982 CC,169 bhp,12.55 kmpl
+448,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,5.0,2,1596 CC,null bhp,15.3 kmpl
+449,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,5.0,1,1950 CC,191.34 bhp,12.6 kmpl
+450,Hyundai Xcent Base,Hyundai,2016,300000,140000,Diesel,5.0,1,2148 CC,170 bhp,15.8 kmpl
+451,Honda City,Honda,2015,499999,55000,Petrol,5.0,1,1968 CC,108.49 bhp,17.72 kmpl
+452,Hyundai Accent Executive,Hyundai,2009,165000,48000,Petrol,5.0,1,1197 CC,82 bhp,18.9 kmpl
+453,Maruti Suzuki Baleno,Maruti,2016,498000,22000,Petrol,5.0,1,1196 CC,86.8 bhp,18.16 kmpl
+454,Tata Zest XE,Tata,2018,480000,103553,Diesel,5.0,1,1395 CC,138.02 bhp,16.8 kmpl
+455,Maruti Suzuki Dzire,Maruti,2017,488000,80000,Diesel,5.0,2,1461 CC,83.8 bhp,19.87 kmpl
+456,Tata Sumo Gold,Tata,2014,250000,99000,Diesel,5.0,2,1999 CC,177 bhp,15.68 kmpl
+457,Toyota Corolla Altis,Toyota,2010,220000,58000,Petrol,5.0,2,1399 CC,68 bhp,20.0 kmpl
+458,Maruti Suzuki Eeco,Maruti,2013,290000,70000,LPG,7.0,2,2953 CC,156 bhp,12.8 kmpl
+459,Toyota Fortuner 3.0,Toyota,2015,1525000,120000,Diesel,7.0,1,2982 CC,168.5 bhp,12.55 kmpl
+460,Mahindra XUV500 W6,Mahindra,2013,548900,49800,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+461,Tata Tigor Revotron,Tata,2019,650000,100,Diesel,5.0,1,1248 CC,73.94 bhp,23.2 kmpl
+462,Maruti Suzuki 800,Maruti,2001,55000,81876,Petrol,5.0,1,1461 CC,63.1 bhp,23.08 kmpl
+463,Maruti Suzuki Ertiga,Maruti,2015,550000,75000,Petrol,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+464,Maruti Suzuki Versa,Maruti,2004,90000,50000,Petrol,5.0,1,2497 CC,150 bhp,10.8 kmpl
+465,Honda Mobilio S,Honda,2014,399000,44000,Diesel,7.0,1,2987 CC,258 bhp,11.0 kmpl
+466,Maruti Suzuki Ertiga,Maruti,2016,730000,55000,Diesel,5.0,1,2354 CC,187.4 bhp,12.0 kmpl
+467,Maruti Suzuki Vitara,Maruti,2017,725000,36000,Diesel,5.0,1,1582 CC,126.2 bhp,17.01 kmpl
+468,Hyundai Verna 1.6,Hyundai,2016,195000,56000,Diesel,5.0,2,1086 CC,68.05 bhp,19.81 kmpl
+469,Maruti Suzuki Swift,Maruti,2007,130000,62000,Petrol,5.0,1,2143 CC,136 bhp,20.0 kmpl
+470,Toyota Fortuner 3.0,Toyota,2015,1525000,120000,Diesel,7.0,1,1373 CC,93.7 bhp,16.02 kmpl
+471,Maruti Suzuki Omni,Maruti,2014,190000,6020,Petrol,5.0,2,1896 CC,66 bhp,18.7 kmpl
+472,Honda Amaze,Honda,2013,250000,55700,Diesel,5.0,1,1198 CC,86.7 bhp,18.0 kmpl
+473,Tata Indica,Tata,2005,80000,42000,Petrol,5.0,1,993 CC,60 bhp,17.3 kmpl
+474,Hyundai Santro Xing,Hyundai,2003,120000,50000,Petrol,5.0,1,1586 CC,103.3 bhp,15.5 kmpl
+475,Maruti Suzuki Zen,Maruti,2010,149000,35000,Petrol,5.0,1,1198 CC,86.8 bhp,16.5 kmpl
+476,Maruti Suzuki Wagon,Maruti,2014,250000,18500,Petrol,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+477,Maruti Suzuki Wagon,Maruti,2007,120000,7000,Petrol,5.0,2,2362 CC,164.7 bhp,12.1 kmpl
+478,Honda Brio VX,Honda,2017,450000,11000,Petrol,5.0,1,1199 CC,79.4 bhp,18.6 kmpl
+479,Maruti Suzuki Zen,Maruti,2003,99999,53000,Petrol,5.0,1,1498 CC,89.84 bhp,22.7 kmpl
+480,Maruti Suzuki Zen,Maruti,2008,135000,23000,Petrol,5.0,2,1248 CC,75 bhp,17.8 kmpl
+481,Maruti Suzuki Wagon,Maruti,2016,225000,35500,Diesel,5.0,1,2987 CC,282 bhp,13.5 kmpl
+482,Maruti Suzuki Alto,Maruti,2010,99000,22134,Petrol,7.0,2,1497 CC,117.3 bhp,17.3 kmpl
+483,Renault Kwid RXT,Renault,2019,370000,1000,Petrol,5.0,2,1197 CC,82 bhp,18.9 kmpl
+484,Tata Nano Lx,Tata,2010,52000,9000,Petrol,7.0,1,2179 CC,140 bhp,16.0 kmpl
+485,Jaguar XE XE,Jaguar,2016,2800000,8500,Petrol,5.0,2,1598 CC,105 bhp,14.83 kmpl
+486,Hyundai Eon Magna,Hyundai,2014,190000,35000,Petrol,5.0,1,1591 CC,121.3 bhp,15.29 kmpl
+487,Honda City 1.5,Honda,2014,499000,22000,Petrol,7.0,1,1997 CC,120 bhp,15.4 kmpl
+488,Hindustan Motors Ambassador,Hindustan,2002,90000,25000,Diesel,5.0,1,1598 CC,103.5 bhp,20.5 kmpl
+489,Maruti Suzuki Ritz,Maruti,2010,149000,40000,Petrol,5.0,1,1461 CC,108.45 bhp,19.01 kmpl
+490,Hyundai Grand i10,Hyundai,2017,400000,20000,Petrol,5.0,1,2993 CC,245 bhp,11.7 kmpl
+491,Hyundai Eon D,Hyundai,2016,120000,87000,Petrol,5.0,1,1496 CC,88.73 bhp,17.6 kmpl
+492,Maruti Suzuki Swift,Maruti,2015,250000,55000,Petrol,5.0,1,998 CC,67.04 bhp,22.5 kmpl
+493,Maruti Suzuki Wagon,Maruti,2017,375000,23000,Petrol,5.0,1,1591 CC,121.3 bhp,15.8 kmpl
+494,Honda Amaze 1.2,Honda,2014,381000,6000,Petrol,5.0,1,998 CC,67.04 bhp,23.1 kmpl
+495,Maruti Suzuki Estilo,Maruti,2013,180000,65000,Petrol,5.0,1,2179 CC,187.7 bhp,12.7 kmpl
+496,Maruti Suzuki Vitara,Maruti,2016,580000,25000,Diesel,5.0,1,1199 CC,76.8 bhp,18.6 kmpl
+497,Maruti Suzuki Eeco,Maruti,2015,278000,39000,Petrol,4.0,2,624 CC,37.5 bhp,25.4 kmpl
+498,Hyundai Creta 1.6,Hyundai,2016,1000000,8000,Petrol,5.0,2,2987 CC,198.5 bhp,11.0 kmpl
+499,Mahindra Scorpio Vlx,Mahindra,2013,690000,75000,Diesel,5.0,1,1197 CC,81.80 bhp,22.0 kmpl
+500,Maruti Suzuki Ertiga,Maruti,2012,480000,51000,Diesel,5.0,1,1368 CC,112 bhp,14.6 kmpl
+501,Mitsubishi Lancer 1.8,Mitsubishi,2006,85000,50000,Petrol,5.0,1,1197 CC,81.80 bhp,20.4 kmpl
+502,Maruti Suzuki Maruti,Maruti,2001,40000,75000,Petrol,7.0,1,2982 CC,171 bhp,11.5 kmpl
+503,Maruti Suzuki Alto,Maruti,2015,90000,55800,Petrol,7.0,1,1373 CC,93.7 bhp,16.02 kmpl
+504,Hyundai Grand i10,Hyundai,2015,340000,53000,Petrol,5.0,1,1995 CC,154 bhp,12.05 kmpl
+505,Hyundai Eon D,Hyundai,2018,260000,25000,Petrol,7.0,1,1373 CC,93.7 bhp,16.02 kmpl
+506,Ford Fiesta SXi,Ford,2009,250000,56400,Petrol,5.0,2,1497 CC,118 bhp,16.8 kmpl
+507,Maruti Suzuki Ritz,Maruti,2010,180000,72160,Diesel,7.0,1,2199 CC,194.3 bhp,14.66 kmpl
+508,Hyundai Verna Fluidic,Hyundai,2012,350000,10000,Diesel,5.0,1,1405 CC,70 bhp,17.0 kmpl
+509,Maruti Suzuki Wagon,Maruti,2006,90001,48000,Petrol,5.0,2,2497 CC,204 bhp,10.93 kmpl
+510,Maruti Suzuki Estilo,Maruti,2007,115000,36000,Petrol,5.0,1,1248 CC,73.9 bhp,19.3 kmpl
+511,Audi A6 2.0,Audi,2012,1599000,11500,Diesel,5.0,1,1399 CC,67 bhp,17.8 kmpl
+512,Maruti Suzuki Wagon,Maruti,2003,130000,133000,Petrol,5.0,1,1497 CC,117.3 bhp,18.0 kmpl
+513,Maruti Suzuki Wagon,Maruti,2009,159000,27000,Petrol,7.0,1,2982 CC,168.5 bhp,13.0 kmpl
+514,Maruti Suzuki Wagon,Maruti,2009,160000,35000,Petrol,5.0,1,1198 CC,86.7 bhp,18.0 kmpl
+515,Maruti Suzuki Alto,Maruti,2010,110000,55000,Petrol,5.0,1,1396 CC,88.73 bhp,22.54 kmpl
+516,Maruti Suzuki Baleno,Maruti,2016,425000,40000,Petrol,7.0,2,1248 CC,73.8 bhp,18.2 kmpl
+517,Hyundai Verna 1.6,Hyundai,2019,900000,2000,Petrol,5.0,1,1950 CC,181.43 bhp,0.0 kmpl
+518,Maruti Suzuki Swift,Maruti,2009,150000,45000,Petrol,5.0,1,1586 CC,103.2 bhp,12.6 kmpl
+519,Hyundai Getz Prime,Hyundai,2009,110000,20000,Petrol,7.0,1,2494 CC,100 bhp,12.99 kmpl
+520,Hyundai Santro,Hyundai,2000,51999,88000,Petrol,5.0,2,1995 CC,177 bhp,18.48 kmpl
+521,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol,5.0,1,1461 CC,108.45 bhp,19.01 kmpl
+522,Chevrolet Beat PS,Chevrolet,2012,215000,65422,Diesel,5.0,1,1995 CC,190 bhp,20.68 kmpl
+523,Ford EcoSport Trend,Ford,2017,580000,10000,Petrol,5.0,1,1497 CC,78 bhp,17.7 kmpl
+524,Maruti Suzuki Dzire,Maruti,2013,380000,35000,Petrol,5.0,1,1248 CC,88.5 bhp,28.09 kmpl
+525,Hyundai Fluidic Verna,Hyundai,2013,350000,117000,Diesel,5.0,2,1298 CC,85.8 bhp,17.5 kmpl
+526,Tata Indica V2,Tata,2005,35000,150000,Diesel,7.0,1,2179 CC,140 bhp,15.1 kmpl
+527,BMW X1 xDrive20d,BMW,2011,1150000,72000,Diesel,5.0,1,1799 CC,130 bhp,13.5 kmpl
+528,Hyundai i20 Asta,Hyundai,2010,300000,10750,Petrol,7.0,2,1248 CC,88.50 bhp,25.47 kmpl
+529,Honda City 1.5,Honda,2009,269000,55000,Petrol,5.0,1,1364 CC,67.04 bhp,23.59 kmpl
+530,Tata Nano,Tata,2013,60000,6800,Petrol,2.0,1,1984 CC,207.8 bhp,9.9 kmpl
+531,Chevrolet Cruze LTZ,Chevrolet,2014,400000,41000,Diesel,5.0,1,1498 CC,108.4 bhp,21.13 kmpl
+532,Hyundai Verna Fluidic,Hyundai,2015,430000,73000,Diesel,5.0,1,1498 CC,88.8 bhp,20.14 kmpl
+533,Maruti Suzuki Swift,Maruti,2011,140000,65000,Diesel,5.0,1,1461 CC,65 bhp,19.2 kmpl
+534,Mahindra XUV500 W6,Mahindra,2014,8500003,45000,Diesel,7.0,1,2755 CC,171.5 bhp,11.36 kmpl
+535,Mahindra XUV500 W10,Mahindra,2018,1299000,40000,Diesel,5.0,1,1995 CC,184 bhp,18.88 kmpl
+536,Maruti Suzuki Alto,Maruti,2014,199000,37000,Petrol,5.0,1,1498 CC,98.6 bhp,27.3 kmpl
+537,Hyundai Accent GLE,Hyundai,2006,90000,55000,Petrol,5.0,1,1498 CC,98.6 bhp,25.8 kmpl
+538,Force Motors One,Force,2013,550000,140000,Diesel,5.0,1,2179 CC,187.7 bhp,16.36 kmpl
+539,Maruti Suzuki Alto,Maruti,2019,265000,9800,Petrol,5.0,1,1956 CC,170 bhp,17.1 kmpl
+540,Chevrolet Spark 1.0,Chevrolet,2011,100000,27000,Petrol,5.0,1,1794 CC,132 bhp,12.5 kmpl
+541,Hyundai i10,Hyundai,2009,215000,27000,Petrol,5.0,1,1497 CC,118 bhp,17.0 kmpl
+542,Toyota Etios Liva,Toyota,2012,380000,20000,Diesel,5.0,1,1197 CC,85.8 bhp,18.6 kmpl
+543,Renault Duster 85PS,Renault,2013,401919,57923,Diesel,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+544,Chevrolet Enjoy,Chevrolet,2014,490000,30201,Diesel,7.0,2,2523 CC,62.1 bhp,15.96 kmpl
+545,Maruti Suzuki Alto,Maruti,2017,280000,6200,Petrol,5.0,1,1248 CC,74 bhp,22.9 kmpl
+546,BMW 5 Series,BMW,2009,650000,37518,Petrol,5.0,1,1086 CC,null bhp,17.0 kmpl
+547,Toyota Etios Liva,Toyota,2014,160000,24652,Petrol,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+548,Mahindra Jeep MM,Mahindra,2004,424000,383,Diesel,5.0,3,1299 CC,70 bhp,13.8 kmpl
+549,Chevrolet Beat LS,Chevrolet,2016,225000,95000,Diesel,5.0,1,1498 CC,88 bhp,20.14 kmpl
+550,Chevrolet Cruze LTZ,Chevrolet,2011,350000,35000,Diesel,7.0,1,2523 CC,63 bhp,13.6 kmpl
+551,Jeep Wrangler Unlimited,Jeep,2015,950000,3528,Diesel,5.0,1,1498 CC,98.6 bhp,25.1 kmpl
+552,Maruti Suzuki Ertiga,Maruti,2013,485000,52500,Diesel,5.0,1,1199 CC,82.5 bhp,18.2 kmpl
+553,Hyundai Verna VGT,Hyundai,2010,205000,47900,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+554,Maruti Suzuki Omni,Maruti,2012,160000,14000,Petrol,5.0,1,1995 CC,184 bhp,17.05 kmpl
+555,Maruti Suzuki Celerio,Maruti,2018,310000,37000,Petrol,5.0,1,1995 CC,177 bhp,15.06 kmpl
+556,Tata Zest Quadrajet,Tata,2017,180000,90000,Diesel,7.0,1,2982 CC,168.5 bhp,12.55 kmpl
+557,Mahindra XUV500 W6,Mahindra,2013,549900,52800,Diesel,7.0,1,4134 CC,335.2 bhp,11.33 kmpl
+558,Tata Indigo CS,Tata,2016,150000,104000,Diesel,7.0,1,1248 CC,88.76 bhp,20.77 kmpl
+559,Hyundai i10 Era,Hyundai,2011,175000,30000,Petrol,5.0,1,1197 CC,80 bhp,18.5 kmpl
+560,Tata Indigo eCS,Tata,2014,95000,195000,Diesel,5.0,2,3498 CC,364.9 bhp,10.13 kmpl
+561,Tata Indigo LX,Tata,2016,230000,104000,Diesel,5.0,1,1461 CC,83.8 bhp,20.45 kmpl
+562,Tata Indigo eCS,Tata,2016,230000,104000,Diesel,7.0,2,1493 CC,100 bhp,17.21 kmpl
+563,Tata Indigo Marina,Tata,2004,180000,70000,Diesel,7.0,1,2982 CC,168.5 bhp,12.55 kmpl
+564,Hyundai Xcent SX,Hyundai,2015,400000,43000,Diesel,5.0,1,1248 CC,73.9 bhp,19.3 kmpl
+565,Hyundai Eon Magna,Hyundai,2013,185000,23000,Petrol,5.0,1,1248 CC,74 bhp,25.2 kmpl
+566,Renault Duster 85,Renault,2015,385000,51000,Diesel,5.0,1,1984 CC,177.01 bhp,13.53 kmpl
+567,Maruti Suzuki Alto,Maruti,2009,90000,62000,Petrol,6.0,3,2835 CC,107.2 bhp,10.5 kmpl
+568,Tata Nano LX,Tata,2010,32000,48008,Petrol,5.0,1,2179 CC,187.7 bhp,16.36 kmpl
+569,Renault Duster 110,Renault,2013,435000,39000,Diesel,5.0,1,1968 CC,141 bhp,19.3 kmpl
+570,Maruti Suzuki Wagon,Maruti,2010,225000,40000,Petrol,5.0,1,1798 CC,138.03 bhp,14.28 kmpl
+571,Maruti Suzuki Swift,Maruti,2006,189700,48247,Petrol,8.0,1,796 CC,35 bhp,19.7 kmpl
+572,Maruti Suzuki Ertiga,Maruti,2012,389700,39000,Diesel,5.0,1,2143 CC,170 bhp,17.9 kmpl
+573,Maruti Suzuki Swift,Maruti,2014,365000,23000,Petrol,5.0,1,1498 CC,108.5 bhp,21.5 kmpl
+574,Maruti Suzuki Alto,Maruti,2017,360000,9400,Petrol,7.0,1,2179 CC,140 bhp,16.0 kmpl
+575,Hyundai i20 Magna,Hyundai,2010,210000,50000,Petrol,5.0,1,1461 CC,83.8 bhp,20.45 kmpl
+576,Hyundai i10 Magna,Hyundai,2009,170000,75000,Petrol,5.0,2,1582 CC,126.32 bhp,22.32 kmpl
+577,Tata Zest XE,Tata,2017,380000,70000,Diesel,7.0,2,2179 CC,120 bhp,15.4 kmpl
+578,Mahindra Xylo E8,Mahindra,2009,295000,64000,Diesel,5.0,1,1582 CC,126.2 bhp,23.9 kmpl
+579,Toyota Corolla Altis,Toyota,2010,185000,55000,Petrol,7.0,2,2967 CC,241.4 bhp,12.07 kmpl
+580,Tata Manza Aqua,Tata,2014,160000,200000,Diesel,5.0,1,1150 CC,76 bhp,14.7 kmpl
+581,Renault Kwid 1.0,Renault,2018,290000,2137,Petrol,8.0,1,2393 CC,147.8 bhp,13.68 kmpl
+582,Tata Venture EX,Tata,2013,100000,30000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+583,Maruti Suzuki Swift,Maruti,2014,315000,44000,Petrol,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+584,Skoda Octavia Classic,Skoda,2006,114990,65000,Diesel,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+585,Maruti Suzuki Omni,Maruti,2012,120000,160000,LPG,5.0,1,1497 CC,118 bhp,17.0 kmpl
+586,Chevrolet Beat Diesel,Chevrolet,2011,125000,56000,Diesel,5.0,2,2354 CC,177.6 bhp,12.8 kmpl
+587,Tata Sumo Gold,Tata,2012,210000,75000,Diesel,8.0,1,2498 CC,112 bhp,14.0 kmpl
+588,Hyundai Verna 1.6,Hyundai,2018,855000,42000,Diesel,5.0,2,1497 CC,116.3 bhp,16.8 kmpl
+589,Tata Sumo Gold,Tata,2012,210000,75000,Diesel,7.0,1,2179 CC,140 bhp,16.0 kmpl
+590,Mahindra Scorpio 2.6,Mahindra,2007,260000,56000,Diesel,5.0,1,1396 CC,88.76 bhp,21.27 kmpl
+591,Maruti Suzuki Zen,Maruti,2002,95000,10544,Petrol,7.0,1,2982 CC,168.5 bhp,13.0 kmpl
+592,Maruti Suzuki Swift,Maruti,2011,255000,64000,Petrol,8.0,1,2523 CC,63 bhp,13.6 kmpl
+593,Mahindra Scorpio SLX,Mahindra,2008,300000,70000,Diesel,5.0,1,1298 CC,85 bhp,15.9 kmpl
+594,Hyundai Grand i10,Hyundai,2014,340000,25000,Petrol,5.0,3,1086 CC,null bhp,0.0 kmpl
+595,Hyundai Elite i20,Hyundai,2017,550000,15000,Petrol,5.0,1,1496 CC,113.98 bhp,20.7 kmpl
+596,Ford Ikon 1.6,Ford,2003,60000,50000,Petrol,5.0,1,1968 CC,174.33 bhp,15.73 kmpl
+597,Toyota Innova 2.5,Toyota,2011,750000,147000,Diesel,7.0,1,1498 CC,98.6 bhp,21.9 kmpl
+598,Nissan Sunny XL,Nissan,2011,230000,52000,Petrol,5.0,1,1968 CC,138.03 bhp,19.33 kmpl
+599,Chevrolet Beat LT,Chevrolet,2012,130000,90001,Diesel,5.0,1,1197 CC,81.86 bhp,19.1 kmpl
+600,Maruti Suzuki Alto,Maruti,2017,270000,21000,Petrol,5.0,1,1197 CC,81.80 bhp,20.89 kmpl
+601,Maruti Suzuki Swift,Maruti,2012,280000,48006,Diesel,5.0,1,1995 CC,190 bhp,18.12 kmpl
+602,Maruti Suzuki Swift,Maruti,2012,280000,48006,Diesel,5.0,1,1299 CC,70 bhp,13.8 kmpl
+603,Maruti Suzuki Swift,Maruti,2012,280000,48006,Diesel,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+604,Toyota Innova 2.0,Toyota,2012,600000,80000,Diesel,5.0,1,1995 CC,181 bhp,16.07 kmpl
+605,Maruti Suzuki Swift,Maruti,2010,190000,74000,Diesel,5.0,2,1199 CC,79.4 bhp,18.6 kmpl
+606,Hyundai Elite i20,Hyundai,2015,500000,22000,Petrol,5.0,1,1086 CC,null bhp,0.0 kmpl
+607,Mahindra XUV500 W10,Mahindra,2016,1065000,41000,Diesel,5.0,2,1405 CC,null bhp,13.5 kmpl
+608,Volkswagen Polo Trendline,Volkswagen,2015,350000,25000,Diesel,7.0,1,2179 CC,140 bhp,15.1 kmpl
+609,Toyota Etios Liva,Toyota,2012,350000,85000,Diesel,5.0,1,1248 CC,88.5 bhp,28.09 kmpl
+610,Mahindra TUV300 T4,Mahindra,2016,540000,29500,Diesel,5.0,1,2143 CC,201.15 bhp,19.71 kmpl
+611,Hyundai Elite i20,Hyundai,2015,470000,30000,Petrol,5.0,3,1497 CC,78 bhp,16.4 kmpl
+612,Hyundai Santro Xing,Hyundai,2014,179000,57000,Petrol,7.0,1,2982 CC,169 bhp,11.5 kmpl
+613,Maruti Suzuki Zen,Maruti,2003,48000,60000,Petrol,5.0,1,998 CC,67.1 bhp,24.07 kmpl
+614,Maruti Suzuki Ciaz,Maruti,2016,650000,50000,Petrol,5.0,1,1999 CC,237.4 bhp,9.43 kmpl
+615,Hyundai Eon Era,Hyundai,2013,190000,39700,Petrol,5.0,1,1396 CC,90 bhp,21.9 kmpl
+616,Hyundai Elantra 1.8,Hyundai,2012,500000,65000,Petrol,7.0,1,1497 CC,117.3 bhp,16.0 kmpl
+617,Maruti Suzuki Swift,Maruti,2010,270000,67000,Diesel,5.0,1,1794 CC,125 bhp,13.4 kmpl
+618,Maruti Suzuki Zen,Maruti,2008,125000,46000,Petrol,5.0,1,1968 CC,174.33 bhp,17.68 kmpl
+619,Hyundai Eon Era,Hyundai,2012,188000,38000,Petrol,7.0,1,2494 CC,100.6 bhp,12.99 kmpl
+620,Hyundai Grand i10,Hyundai,2016,380000,27000,Petrol,5.0,1,1120 CC,70 bhp,24.0 kmpl
+621,Hyundai Verna Fluidic,Hyundai,2011,365000,43000,Diesel,5.0,1,1598 CC,105 bhp,14.8 kmpl
+622,Ford EcoSport Trend,Ford,2014,465000,47000,Petrol,7.0,1,2494 CC,102 bhp,12.8 kmpl
+623,Hyundai i20 Magna,Hyundai,2011,240000,42000,Petrol,5.0,2,1493 CC,110 bhp,16.8 kmpl
+624,Chevrolet Beat Diesel,Chevrolet,2016,179999,19336,Diesel,5.0,2,1248 CC,73.94 bhp,23.2 kmpl
+625,Tata Indica eV2,Tata,2015,140000,60105,Diesel,7.0,2,2967 CC,241.4 bhp,12.07 kmpl
+626,Jaguar XF 2.2,Jaguar,2013,2190000,29000,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+627,Audi Q5 2.0,Audi,2014,2390000,34000,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+628,BMW 3 Series,BMW,2011,1075000,35000,Diesel,5.0,1,1497 CC,117.3 bhp,17.4 kmpl
+629,Maruti Suzuki Swift,Maruti,2015,475000,22000,Petrol,5.0,1,1373 CC,91.1 bhp,20.73 kmpl
+630,BMW X1 sDrive20d,BMW,2012,1025000,41000,Diesel,5.0,1,1498 CC,99.6 bhp,17.5 kmpl
+631,Maruti Suzuki S,Maruti,2016,615000,21000,Diesel,5.0,1,1199 CC,73.9 bhp,22.07 kmpl
+632,Maruti Suzuki Ertiga,Maruti,2013,475000,48000,Diesel,7.0,1,1248 CC,88.8 bhp,20.77 kmpl
+633,Maruti Suzuki Alto,Maruti,2016,270000,38000,Petrol,5.0,1,1248 CC,74 bhp,26.59 kmpl
+634,Honda City SV,Honda,2014,475000,34000,Diesel,5.0,1,2143 CC,170 bhp,14.84 kmpl
+635,Volkswagen Vento Comfortline,Volkswagen,2011,240000,45933,Petrol,5.0,1,1198 CC,86.8 bhp,19.4 kmpl
+636,Honda City 1.5,Honda,2005,120000,68000,Petrol,5.0,1,1086 CC,66.7 bhp,16.0 kmpl
+637,Audi A4 2.0,Audi,2016,1900000,44000,Diesel,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+638,Mahindra KUV100,Mahindra,2017,360000,35000,Diesel,5.0,1,1248 CC,88.5 bhp,28.09 kmpl
+639,Tata Zest XE,Tata,2018,450000,102563,Diesel,5.0,2,1299 CC,70 bhp,13.8 kmpl
+640,Mahindra XUV500 W8,Mahindra,2015,900000,28600,Diesel,5.0,2,1199 CC,74 bhp,16.2 kmpl
+641,Maruti Suzuki Swift,Maruti,2017,650000,41800,Diesel,5.0,1,1199 CC,88.7 bhp,18.7 kmpl
+642,Tata Sumo Gold,Tata,2014,275000,116000,Diesel,5.0,2,1498 CC,98.6 bhp,25.8 kmpl
+643,Maruti Suzuki Swift,Maruti,2009,210000,59000,Petrol,5.0,1,1396 CC,88.73 bhp,22.54 kmpl
+644,Mahindra Scorpio 2.6,Mahindra,2004,175000,58000,Diesel,5.0,1,1248 CC,73.9 bhp,21.1 kmpl
+645,Maruti Suzuki Omni,Maruti,2009,85000,45000,Petrol,5.0,1,1497 CC,116.3 bhp,16.8 kmpl
+646,Mitsubishi Pajero Sport,Mitsubishi,2015,1490000,42590,Diesel,5.0,1,1798 CC,160 bhp,13.14 kmpl
+647,Renault Duster,Renault,2014,800000,7400,Diesel,5.0,1,1248 CC,88.5 bhp,24.3 kmpl
+648,Volkswagen Jetta Comfortline,Volkswagen,2009,450000,54500,Diesel,5.0,2,1197 CC,80 bhp,17.0 kmpl
+649,Maruti Suzuki Ertiga,Maruti,2012,1000000,200000,Diesel,5.0,1,998 CC,67.1 bhp,24.07 kmpl
+650,Audi A4 2.0,Audi,2013,1510000,27000,Diesel,5.0,1,814 CC,55.2 bhp,21.1 kmpl
+651,Volvo S80 Summum,Volvo,2015,1850000,42000,Diesel,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+652,Toyota Corolla Altis,Toyota,2014,790000,29000,Petrol,2.0,1,3498 CC,306 bhp,18.1 kmpl
+653,Mitsubishi Pajero Sport,Mitsubishi,2015,1725000,37000,Diesel,5.0,1,1968 CC,187.74 bhp,18.53 kmpl
+654,Chevrolet Beat LT,Chevrolet,2012,135000,36000,Petrol,5.0,1,1498 CC,98.59 bhp,22.77 kmpl
+655,BMW X1,BMW,2011,1000000,34000,Diesel,5.0,1,1968 CC,140 bhp,14.3 kmpl
+656,Datsun Redi GO,Datsun,2018,299999,7000,Petrol,7.0,1,2393 CC,147.8 bhp,13.68 kmpl
+657,Mercedes Benz C,Mercedes,2009,1225000,76000,Diesel,5.0,3,1399 CC,68 bhp,20.0 kmpl
+658,Mahindra Scorpio SLX,Mahindra,2004,175000,60000,Diesel,5.0,3,1399 CC,92.7 bhp,14.49 kmpl
+659,Volkswagen Vento Comfortline,Volkswagen,2011,200000,95000,Diesel,5.0,1,1197 CC,85.80 bhp,18.5 kmpl
+660,Tata Indigo CS,Tata,2017,270000,50000,Diesel,5.0,1,2179 CC,147.51 bhp,12.39 kmpl
+661,Ford Figo Petrol,Ford,2019,525000,0,Petrol,5.0,1,1197 CC,82 bhp,18.9 kmpl
+662,Honda City ZX,Honda,2006,180000,50000,Petrol,7.0,1,3198 CC,197.2 bhp,10.91 kmpl
+663,Maruti Suzuki Wagon,Maruti,2008,140000,68000,Petrol,5.0,1,1968 CC,167.6 bhp,12.8 kmpl
+664,Ford EcoSport Trend,Ford,2014,400000,16000,Petrol,5.0,1,1591 CC,121.3 bhp,17.01 kmpl
+665,Maruti Suzuki Swift,Maruti,2016,499000,51000,Diesel,5.0,1,2143 CC,204 bhp,13.0 kmpl
+666,Maruti Suzuki Omni,Maruti,2009,85000,56000,Petrol,5.0,1,2987 CC,165 bhp,0.0 kmpl
+667,Maruti Suzuki Zen,Maruti,2004,70000,100000,Petrol,5.0,2,1298 CC,85.8 bhp,17.5 kmpl
+668,Renault Duster RxL,Renault,2015,550000,36000,Petrol,5.0,1,1343 CC,90 bhp,13.0 kmpl
+669,Maruti Suzuki Swift,Maruti,2014,370000,11523,Petrol,5.0,1,1461 CC,83.8 bhp,20.46 kmpl
+670,Maruti Suzuki Baleno,Maruti,2018,690000,1000,Petrol,5.0,1,2143 CC,170 bhp,14.84 kmpl
+671,Honda WR V,Honda,2009,250000,60000,Petrol,5.0,1,2993 CC,258 bhp,15.97 kmpl
+672,Tata Indigo CS,Tata,2016,110000,85000,Diesel,5.0,1,1197 CC,82 bhp,19.1 kmpl
+673,Renault Duster 110,Renault,2013,490000,38600,Diesel,5.0,1,1197 CC,81.80 bhp,22.0 kmpl
+674,Mahindra Scorpio LX,Mahindra,2009,320000,95500,Diesel,4.0,1,1995 CC,181 bhp,16.07 kmpl
+675,Maruti Suzuki Zen,Maruti,2004,68000,56000,Petrol,5.0,1,796 CC,47.3 bhp,22.74 kmpl
+676,Maruti Suzuki Wagon,Maruti,2014,130000,37458,Petrol,5.0,2,1968 CC,174.33 bhp,17.11 kmpl
+677,Maruti Suzuki SX4,Maruti,2016,970000,85960,Diesel,4.0,2,1598 CC,181 bhp,13.6 kmpl
+678,Audi A3 Cabriolet,Audi,2015,3100000,12516,Petrol,7.0,2,2967 CC,241.4 bhp,12.07 kmpl
+679,Hyundai Eon D,Hyundai,2018,280000,35000,Petrol,5.0,1,936 CC,57.6 bhp,25.44 kmpl
+680,Maruti Suzuki Zen,Maruti,2009,125000,0,Petrol,5.0,1,998 CC,67.04 bhp,20.51 kmpl
+681,Mahindra Scorpio SLX,Mahindra,2008,285000,80000,Diesel,5.0,1,1461 CC,108.5 bhp,19.01 kmpl
+682,Hyundai Santro AE,Hyundai,2011,165000,45000,Petrol,5.0,1,1197 CC,83.14 bhp,20.85 kmpl
+683,Maruti Suzuki Swift,Maruti,2009,250000,51000,Diesel,5.0,1,1499 CC,110.4 bhp,15.63 kmpl
+684,Mahindra Scorpio S4,Mahindra,2015,865000,30000,Diesel,5.0,1,1197 CC,80 bhp,18.5 kmpl
+685,Mahindra Xylo D2,Mahindra,2011,390000,48000,Diesel,5.0,1,1599 CC,103.2 bhp,16.2 kmpl
+686,Hyundai Santro,Hyundai,2003,60000,51000,Petrol,5.0,1,1995 CC,184 bhp,18.88 kmpl
+687,Chevrolet Beat LT,Chevrolet,2015,215000,90000,Diesel,5.0,1,1186 CC,73.97 bhp,24.0 kmpl
+688,Maruti Suzuki Swift,Maruti,2015,475000,43000,Diesel,5.0,2,1497 CC,117.3 bhp,17.4 kmpl
+689,Mahindra XUV500 W8,Mahindra,2015,899000,53000,Diesel,,3,,,16.1 kmpl
+690,Toyota Fortuner 3.0,Toyota,2013,1499000,97000,Diesel,5.0,1,1248 CC,74 bhp,25.2 kmpl
+691,Maruti Suzuki Alto,Maruti,2013,240000,20000,Petrol,5.0,1,1248 CC,74 bhp,27.39 kmpl
+692,Hyundai Getz GLE,Hyundai,2007,99000,55000,Petrol,7.0,1,2179 CC,138.1 bhp,14.0 kmpl
+693,Maruti Suzuki Swift,Maruti,2014,260000,120000,Diesel,5.0,2,1495 CC,94 bhp,13.2 kmpl
+694,Hyundai Creta 1.6,Hyundai,2019,1200000,0,Petrol,5.0,1,1248 CC,74 bhp,25.2 kmpl
+695,Hyundai Santro Xing,Hyundai,2007,115000,46000,Petrol,5.0,2,1248 CC,null bhp,17.8 kmpl
+696,Hyundai Santro Xing,Hyundai,2009,88000,43200,Petrol,4.0,1,624 CC,37.48 bhp,21.9 kmpl
+697,Mahindra Xylo D2,Mahindra,2011,390000,56000,Diesel,7.0,1,1248 CC,88.50 bhp,25.47 kmpl
+698,Hyundai Santro Xing,Hyundai,2007,135000,42000,Petrol,5.0,2,998 CC,67.04 bhp,23.1 kmpl
+699,Tata Indica V2,Tata,2009,90000,30600,Diesel,5.0,1,1248 CC,74 bhp,25.2 kmpl
+700,Hyundai i10 Sportz,Hyundai,2011,220000,38000,Petrol,5.0,1,1598 CC,103.6 bhp,15.04 kmpl
+701,Hyundai Grand i10,Hyundai,2017,424999,2550,Petrol,5.0,1,1896 CC,105 bhp,15.5 kmpl
+702,Hyundai Santro Xing,Hyundai,2007,135000,47000,Petrol,5.0,2,1496 CC,113.98 bhp,20.7 kmpl
+703,Honda City 1.5,Honda,2005,95000,41000,Petrol,5.0,1,1396 CC,53.5 bhp,17.2 kmpl
+704,Nissan Micra XL,Nissan,2017,430000,62500,Diesel,5.0,1,1086 CC,null bhp,17.0 kmpl
+705,Honda City 1.5,Honda,2005,115000,68000,Petrol,,2,,,0.0 kmpl
+706,Maruti Suzuki Alto,Maruti,2015,215000,50000,Petrol,5.0,1,1497 CC,117.3 bhp,18.0 kmpl
+707,Maruti Suzuki Wagon,Maruti,2004,53000,69000,Petrol,5.0,1,2179 CC,187.7 bhp,16.36 kmpl
+708,Maruti Suzuki Ertiga,Maruti,2012,500000,48000,Diesel,5.0,1,2143 CC,204 bhp,15.0 kmpl
+709,Tata Indica eV2,Tata,2012,85000,55000,Diesel,5.0,3,1991 CC,147.9 bhp,18.3 kmpl
+710,Maruti Suzuki Omni,Maruti,2013,165000,25000,Petrol,7.0,1,2179 CC,140 bhp,15.1 kmpl
+711,Hyundai Eon Era,Hyundai,2014,200000,28400,Petrol,5.0,1,1796 CC,186 bhp,11.74 kmpl
+712,Hyundai Eon,Hyundai,2014,200000,28000,Petrol,5.0,1,1199 CC,88.7 bhp,18.2 kmpl
+713,Maruti Suzuki Swift,Maruti,2015,425000,42000,Diesel,5.0,1,1496 CC,88.73 bhp,16.78 kmpl
+714,Hyundai Verna 1.6,Hyundai,2012,600000,29000,Diesel,5.0,1,1197 CC,81.80 bhp,20.4 kmpl
+715,Chevrolet Tavera LS,Chevrolet,2005,130000,68485,Diesel,5.0,3,998 CC,66.1 bhp,19.0 kmpl
+716,Tata Tiago Revotron,Tata,2018,430000,3500,Petrol,4.0,1,624 CC,37.48 bhp,25.4 kmpl
+717,Tata Tiago Revotorq,Tata,2019,568500,0,Petrol,5.0,1,1498 CC,99 bhp,25.5 kmpl
+718,Maruti Suzuki Zen,Maruti,2006,71000,32000,Petrol,5.0,1,1590 CC,94 bhp,15.4 kmpl
+719,Mahindra KUV100 K8,Mahindra,2018,560000,8000,Diesel,5.0,1,1995 CC,184 bhp,18.88 kmpl
+720,Ford EcoSport Titanium,Ford,2014,590000,34000,Diesel,5.0,1,1998 CC,163.7 bhp,17.9 kmpl
+721,Hindustan Motors Ambassador,Hindustan,1995,750000,37000,Petrol,8.0,1,2609 CC,116.6 bhp,12.7 kmpl
+722,Ford Fusion 1.4,Ford,2007,125000,85455,Diesel,5.0,1,1396 CC,69 bhp,25.0 kmpl
+723,Hyundai Santro Xing,Hyundai,2007,135000,46000,Petrol,4.0,1,1991 CC,147.9 bhp,18.1 kmpl
+724,Hyundai Santro,Hyundai,2002,60000,47000,Petrol,8.0,1,2494 CC,102 bhp,12.8 kmpl
+725,Fiat Linea Emotion,Fiat,2009,120000,64000,Petrol,5.0,1,2143 CC,167.62 bhp,19.27 kmpl
+726,Ford Ikon 1.3,Ford,2008,95000,46000,Petrol,5.0,2,1197 CC,85.80 bhp,18.5 kmpl
+727,Maruti Suzuki Omni,Maruti,2017,240000,8000,Petrol,8.0,1,2494 CC,102 bhp,12.8 kmpl
+728,Tata Indica V2,Tata,2012,115000,64000,Diesel,7.0,2,2982 CC,168.5 bhp,12.55 kmpl
+729,Mahindra Scorpio S4,Mahindra,2015,795000,63000,Diesel,5.0,2,1197 CC,78.9 bhp,16.95 kmpl
+730,Hyundai Santro Xing,Hyundai,2007,55000,65000,Petrol,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+731,Mahindra Xylo D2,Mahindra,2009,300000,62000,Diesel,5.0,1,1968 CC,174.33 bhp,15.73 kmpl
+732,Hyundai Grand i10,Hyundai,2014,320000,41000,Petrol,5.0,1,1199 CC,79.4 bhp,18.6 kmpl
+733,Maruti Suzuki Alto,Maruti,2015,265000,14000,Petrol,5.0,2,1399 CC,68 bhp,17.8 kmpl
+734,Toyota Corolla,Toyota,2006,160000,40000,Petrol,5.0,1,1399 CC,68 bhp,20.0 kmpl
+735,Hyundai Eon Magna,Hyundai,2017,300000,1600,Petrol,5.0,1,998 CC,67.04 bhp,23.1 kmpl
+736,Tata Sumo Grande,Tata,2010,130000,90000,Diesel,5.0,1,2143 CC,107.3 bhp,20.0 kmpl
+737,Maruti Suzuki Swift,Maruti,2011,250000,58000,Diesel,5.0,1,1591 CC,121.3 bhp,15.8 kmpl
+738,Volkswagen Polo Highline1.2L,Volkswagen,2013,380000,27000,Petrol,5.0,1,998 CC,67.1 bhp,18.9 kmpl
+739,Maruti Suzuki Alto,Maruti,2003,42000,60000,Petrol,5.0,1,2148 CC,170 bhp,10.0 kmpl
+740,Tata Tiago Revotron,Tata,2017,400000,31000,Petrol,5.0,1,1499 CC,110.4 bhp,18.88 kmpl
+741,Maruti Suzuki Swift,Maruti,2009,120000,90000,Diesel,5.0,2,1995 CC,148 bhp,13.73 kmpl
+742,Maruti Suzuki Swift,Maruti,2009,120000,90000,Diesel,7.0,1,2179 CC,140 bhp,16.0 kmpl
+743,Tata Indigo eCS,Tata,2016,130000,150000,Diesel,8.0,1,796 CC,34.2 bhp,16.8 kmpl
+744,Chevrolet Beat LS,Chevrolet,2014,189000,31000,Diesel,5.0,1,998 CC,67.04 bhp,22.5 kmpl
+745,Mahindra Xylo E8,Mahindra,2011,365000,43000,Diesel,5.0,2,1582 CC,126.32 bhp,22.32 kmpl
+746,Hyundai Eon D,Hyundai,2013,170000,20000,Petrol,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+747,Tata Sumo Gold,Tata,2013,215000,100000,Petrol,5.0,1,1248 CC,74 bhp,23.4 kmpl
+748,Tata Nano,Tata,2013,60000,7000,Petrol,5.0,1,998 CC,67.1 bhp,24.07 kmpl
+749,Hyundai Elite i20,Hyundai,2017,599999,31000,Petrol,10.0,2,2446 CC,75 bhp,13.1 kmpl
+750,Hyundai i10 Magna,Hyundai,2009,400000,33000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+751,Hyundai Creta,Hyundai,2016,900000,60000,Diesel,5.0,2,1896 CC,105 bhp,17.0 kmpl
+752,Volkswagen Polo,Volkswagen,2013,299999,48000,Diesel,5.0,2,1197 CC,81.83 bhp,18.6 kmpl
+753,Maruti Suzuki Dzire,Maruti,2014,374999,33000,Petrol,5.0,1,2993 CC,235 bhp,11.5 kmpl
+754,Tata Bolt XM,Tata,2015,600000,15000,Petrol,5.0,1,1995 CC,190 bhp,22.69 kmpl
+755,Maruti Suzuki Alto,Maruti,2005,70000,47000,Petrol,5.0,1,1399 CC,92.7 bhp,14.49 kmpl
+756,Maruti Suzuki Alto,Maruti,2005,100000,40000,Petrol,5.0,2,2143 CC,203 bhp,14.21 kmpl
+757,Maruti Suzuki Ritz,Maruti,2010,150000,38000,Diesel,5.0,1,998 CC,67.04 bhp,20.51 kmpl
+758,Maruti Suzuki Alto,Maruti,2017,225000,12500,Petrol,5.0,1,799 CC,53.3 bhp,25.17 kmpl
+759,Maruti Suzuki Dzire,Maruti,2009,210000,42000,Petrol,5.0,1,1498 CC,108.62 bhp,21.66 kmpl
+760,Hyundai i20 Asta,Hyundai,2014,425000,31000,Petrol,5.0,1,796 CC,47.3 bhp,22.74 kmpl
+761,Maruti Suzuki Swift,Maruti,2008,162000,60000,Diesel,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+762,Tata Indica V2,Tata,2005,60000,80000,Diesel,5.0,1,1197 CC,null bhp,18.3 kmpl
+763,Mahindra Scorpio VLX,Mahindra,2014,650000,77000,Diesel,5.0,3,1197 CC,80 bhp,17.0 kmpl
+764,Toyota Innova 2.5,Toyota,2012,750000,75000,Diesel,5.0,1,1396 CC,88.73 bhp,22.54 kmpl
+765,Mahindra Xylo E8,Mahindra,2010,375000,40000,Diesel,5.0,1,998 CC,67.04 bhp,20.51 kmpl
+766,Hyundai i20 Magna,Hyundai,2011,230000,47000,Petrol,5.0,2,1396 CC,88.73 bhp,22.54 kmpl
+767,Maruti Suzuki Omni,Maruti,2000,35999,60000,Petrol,5.0,1,1197 CC,103.6 bhp,17.21 kmpl
+768,Mahindra KUV100,Mahindra,2016,380000,26500,Petrol,5.0,1,1399 CC,68.05 bhp,20.0 kmpl
+769,Mahindra KUV100 K8,Mahindra,2019,560000,2875,Petrol,5.0,2,1197 CC,85.8 bhp,18.6 kmpl
+770,Datsun Go Plus,Datsun,2016,285000,13900,Petrol,5.0,1,1120 CC,70 bhp,24.0 kmpl
+771,Ford Endeavor 4x4,Ford,2019,2900000,9000,Diesel,7.0,1,2179 CC,118.3 bhp,14.02 kmpl
+772,Tata Indica V2,Tata,2005,39999,80000,Diesel,5.0,1,796 CC,38.4 bhp,26.83 km/kg
+773,Hyundai Santro Xing,Hyundai,2006,85000,60000,Petrol,5.0,1,1086 CC,68.05 bhp,19.81 kmpl
+774,Maruti Suzuki Wagon,Maruti,2016,395000,20000,Petrol,5.0,1,1968 CC,141 bhp,19.3 kmpl
+775,Maruti Suzuki Swift,Maruti,2008,175000,58000,Diesel,7.0,1,2993 CC,258 bhp,15.97 kmpl
+776,Maruti Suzuki Alto,Maruti,2019,400000,1500,Petrol,5.0,1,998 CC,67.04 bhp,23.1 kmpl
+777,Toyota Innova 2.5,Toyota,2011,750000,75000,Diesel,5.0,2,1598 CC,103.6 bhp,20.54 kmpl
+778,Maruti Suzuki Alto,Maruti,2016,250000,2450,Petrol,7.0,1,1248 CC,88.8 bhp,20.77 kmpl
+779,Maruti Suzuki Alto,Maruti,2019,425000,1625,Petrol,5.0,1,1399 CC,68.05 bhp,20.0 kmpl
+780,Volkswagen Polo Highline1.2L,Volkswagen,2017,525000,45000,Petrol,5.0,2,2967 CC,241.38 bhp,16.77 kmpl
+781,Mahindra Logan,Mahindra,2009,130000,65000,Diesel,7.0,1,2393 CC,147.8 bhp,13.68 kmpl
+782,Maruti Suzuki 800,Maruti,2000,30000,33400,Petrol,5.0,1,1582 CC,126.3 bhp,22.32 kmpl
+783,Mahindra Scorpio,Mahindra,2011,475000,60123,Diesel,5.0,1,1086 CC,62.1 bhp,17.92 kmpl
+784,Chevrolet Sail 1.2,Chevrolet,2013,300000,28000,Petrol,5.0,2,1968 CC,147.51 bhp,16.55 kmpl
+785,Hyundai Santro AE,Hyundai,2003,60000,70000,Petrol,5.0,1,1896 CC,105 bhp,17.0 kmpl
+786,Maruti Suzuki Wagon,Maruti,2006,100000,7000,Petrol,5.0,1,1997 CC,153.86 bhp,13.7 kmpl
+787,Hyundai Eon,Hyundai,2018,260000,25000,Petrol,5.0,1,1582 CC,126.32 bhp,22.32 kmpl
+788,Tata Manza,Tata,2015,100000,100000,Diesel,7.0,1,1498 CC,98.6 bhp,24.5 kmpl
+789,Toyota Etios G,Toyota,2013,265000,42000,Petrol,8.0,2,2494 CC,102 bhp,12.8 kmpl
+790,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol,5.0,1,1197 CC,81.83 bhp,18.6 kmpl
+791,Toyota Qualis,Toyota,2003,180000,100000,Diesel,7.0,2,2523 CC,63 bhp,13.6 kmpl
+792,Hyundai Santro Xing,Hyundai,2004,45000,137495,Petrol,5.0,1,1498 CC,103.2 bhp,20.34 kmpl
+793,Tata Indica eV2,Tata,2016,50500,91200,Diesel,5.0,1,2179 CC,187.7 bhp,16.36 kmpl
+794,Honda City 1.5,Honda,2009,270000,55000,Petrol,5.0,1,993 CC,60 bhp,17.3 kmpl
+795,Tata Zest XE,Tata,2017,290000,120000,Diesel,5.0,1,2987 CC,258 bhp,13.0 kmpl
+796,Mahindra Quanto C4,Mahindra,2013,325000,63000,Diesel,7.0,2,2982 CC,171 bhp,11.5 kmpl
+797,Tata Indigo eCS,Tata,2016,160000,104000,Diesel,5.0,1,1197 CC,82 bhp,18.9 kmpl
+798,Maruti Suzuki Swift,Maruti,2016,350000,146000,Diesel,5.0,1,1186 CC,73.97 bhp,25.4 kmpl
+799,Hyundai Elite i20,Hyundai,2011,290000,40000,Petrol,5.0,1,1591 CC,121.3 bhp,15.29 kmpl
+800,Hyundai i20 Select,Hyundai,2011,290000,40000,Petrol,5.0,1,1197 CC,78.9 bhp,20.36 kmpl
+801,Chevrolet Tavera Neo,Chevrolet,2007,465000,100800,Diesel,5.0,1,1198 CC,86.8 bhp,19.4 kmpl
+802,Maruti Suzuki Dzire,Maruti,2016,325000,150000,Diesel,7.0,1,2982 CC,168.5 bhp,12.55 kmpl
+803,Hyundai Elite i20,Hyundai,2018,510000,2100,Petrol,5.0,1,1968 CC,140 bhp,16.55 kmpl
+804,Honda City VX,Honda,2016,860000,95000,Petrol,7.0,1,2755 CC,171.5 bhp,11.36 kmpl
+805,Maruti Suzuki Dzire,Maruti,2016,450000,2500,Diesel,5.0,1,1498 CC,98.6 bhp,25.1 kmpl
+806,Hyundai Getz,Hyundai,2006,125000,80000,Petrol,5.0,1,1498 CC,98.6 bhp,25.1 kmpl
+807,Mercedes Benz C,Mercedes,2006,500001,15000,Petrol,5.0,1,999 CC,67 bhp,21.7 kmpl
+808,Maruti Suzuki Alto,Maruti,2005,95000,65000,Petrol,5.0,1,1248 CC,74 bhp,28.4 kmpl
+809,Maruti Suzuki Swift,Maruti,2009,250000,51000,Diesel,5.0,1,998 CC,67.04 bhp,23.1 kmpl
+810,Skoda Fabia,Skoda,2009,110000,45000,Petrol,7.0,1,2179 CC,140 bhp,15.1 kmpl
+811,Maruti Suzuki Ritz,Maruti,2011,270000,50000,Petrol,5.0,1,1086 CC,68.05 bhp,19.81 kmpl
+812,Tata Indica V2,Tata,2009,110000,30000,Diesel,5.0,4,1995 CC,163.5 bhp,9.7 kmpl
+813,Toyota Corolla Altis,Toyota,2009,300000,132000,Petrol,4.0,1,1984 CC,226.6 bhp,14.33 kmpl
+814,Tata Zest XM,Tata,2018,260000,27000,Diesel,5.0,1,1461 CC,84.8 bhp,21.64 kmpl
+815,Mahindra Quanto C8,Mahindra,2013,390000,40000,Diesel,5.0,1,998 CC,67.1 bhp,18.9 kmpl
