@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="stylesheet" href="static/css/style.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title> Used Car Price Predictor Application </title>
+  </head>
+  <body>
+	  <style>
+	  	body{
+	  		background-image: url("https://wallpaperaccess.com/full/5338955.jpg");
+	  		color:#ffffff;
+	  	}
+
+	  	.flex{
+	  		display: flex;
+	  		flex-direction: column;
+	  		justify-content: center;
+	  		align-items: center;
+	  	}
+
+	  	.form{
+	  		width:80%;
+	  		display: flex;
+	  		flex-direction: column;
+	  		justify-content: center;
+	  		align-items: center;
+	  	}
+	  </style>
+    <div class="container">
+        <div class="row">
+        <div class="card mt-50" style="width: 100%; height: 100%; background: transparent;">
+            <div class="card-header" style="text-align: center" >
+                <h1 style="font-family:Georgia;"> Used Car Price </h1>
+                <h1 style="font-family:Georgia ;"> ' Predictor Application ' </h1>
+            </div>
+
+            <br>
+
+            <div class="card-body flex">
+                <div class="col-12" style="text-align: center">
+                    <h4 style="font-family:Comic Sans MS ;"> Let's predict ' Price of Car ' you wanna sell </h4>
+                    <h5 style="font-family:Comic Sans MS ;"> fill  the below form : </h5>
+                </div>
+
+                <br>
+                <br>
+
+                <form method="post" class="form" accept-charset="utf-8" name="Modelform">
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <label><h5> Select Company of choice : </h5> </label><br>
+                        <select class="selectpicker form-control" id="company" name="company" required="1"
+                                onchange="load_car_models(this.id,'car_models')">
+                            {% for company in companies %}
+                            <option value="{{ company }}">{{ company }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <label><h5> Select Model of choice : </h5> </label><br>
+                        <select class="selectpicker form-control" id="car_models" name="car_models" required="1">
+                        </select>
+                    </div>
+
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <label><h5> Year of Car Purchase : </h5> </label><br>
+                        <select class="selectpicker form-control" id="year" name="year" required="1">
+                            {% for year in years %}
+                            <option value="{{ year }}">{{ year }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <label><h5> Select the Fuel used : </h5> </label><br>
+                        <select class="selectpicker form-control" id="fuel_type" name="fuel_type" required="1">
+                            {% for fuel in fuel_types %}
+                            <option value="{{ fuel }}">{{ fuel }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <label><h5> Kilometres travelled by Car : </h5> </label><br>
+                        <input type="text" class="form-control" id="kilo_driven" name="kilo_driven"
+                               placeholder=" PLease enter the KM driven ">
+                    </div>
+
+                    <br>
+                    <br>
+
+                    <div class="col-md-10 form-group" style="text-align: center">
+                        <button  class="btn btn-primary form-control" onclick="send_data()"><h4> Let's Predict the Price </h4></button>
+                    </div>
+
+                </form>
+
+                <br>
+
+
+                <div class="row">
+                    <div class="col-12" style="text-align: center">
+                        <h3><span id="prediction"></span></h3>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+  <script>
+       function load_car_models(company_id,car_model_id)
+    {
+        var company=document.getElementById(company_id);
+        var car_model= document.getElementById(car_model_id);
+        console.log(company.value);
+        car_model.value="";
+        car_model.innerHTML="";
+        {% for company in companies %}
+            if( company.value == "{{ company }}")
+            {
+                {% for model in car_models %}
+                    {% if company in model %}
+
+                        var newOption= document.createElement("option");
+                        newOption.value="{{ model }}";
+                        newOption.innerHTML="{{ model }}";
+                        car_model.options.add(newOption);
+                    {% endif %}
+                {% endfor %}
+            }
+        {% endfor %}
+    }
+
+    function form_handler(event) {
+        event.preventDefault(); // Don't submit the form normally
+    }
+    function send_data()
+    {
+        document.querySelector('form').addEventListener("submit",form_handler);
+
+        var fd=new FormData(document.querySelector('form'));
+
+        var xhr= new XMLHttpRequest({mozSystem: true});
+
+        xhr.open('POST','/predict',true);
+        document.getElementById('prediction').innerHTML="Wait! Predicting Price.....";
+        xhr.onreadystatechange = function(){
+            if(xhr.readyState == XMLHttpRequest.DONE){
+                document.getElementById('prediction').innerHTML="Prediction: ₹"+xhr.responseText;
+
+            }
+        };
+
+        xhr.onload= function(){};
+
+        xhr.send(fd);
+    }
+  </script>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
