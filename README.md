@@ -4,7 +4,7 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
 This is a real-world project that works with the machine learning algorithm. The main components of the project include the following: 
 * Training data to extract meaningful insights 
 * Visualizing data to find patterns among different factors 
-* Implementing – linear regression algorithm  
+* Implemented – linear regression algorithm  
 The dataset I’m using here to train a car price prediction model was downloaded from Kaggle.  It contains data about all the main features that contribute to the price of a car.   
 This project takes the parameters of an used car like: Company name, Model name, Year of Car Purchase, Fuel Type &amp;  Number of Kilometers it has been driven. It then predicts the possible price of the car , on which it can be re-saled .
 Make a visit : https://used-car-price-predictor-app.herokuapp.com/
